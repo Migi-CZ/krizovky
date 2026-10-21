@@ -8,6 +8,42 @@ The program builds a Czech **švédská křížovka**, the Swedish-style crosswo
 
 A finished sample is in [`examples/eko_krizovka/`](examples/eko_krizovka/): the [puzzle](examples/eko_krizovka/puzzle.pdf) and the [solution](examples/eko_krizovka/solution.pdf). The tajenka is SLAVÍME / DEN / ZEMĚ ("we celebrate Earth Day"); the grid has 16 rows and 12 columns.
 
+## Quick start with an AI agent (recommended)
+
+The program builds the grid itself, but the clues are written by a person or a language model. You do the least work if you hand both to an AI agent that can run commands in a terminal, for example Claude Code. The agent runs the program, writes the clues, checks the puzzle and produces the files for printing. You supply the topic and the tajenka.
+
+1. You need Python 3.10 or newer and an AI agent with terminal access.
+2. Unpack the `krizovky` folder and start the agent in it (for Claude Code, run `claude`).
+3. Paste a request, adapted to your topic. Split the tajenka into parts with slashes; each part needs 2 to 11 letters (for the 16x12 size):
+
+```text
+Make a Swedish crossword. Follow README.en.md, section "Manual steps".
+Topic: environmental protection. Tajenka: SLAVÍME / DEN / ZEMĚ. Size: 16x12.
+1. Generate the grid and read the words in request.json. If a word does not suit a
+   crossword for a wider audience (vulgar, dialect, too specialised or obsolete),
+   generate the grid again with a different --seed.
+   Try at most three times, then take the best grid.
+2. Write the clues in Czech into clues.json, following the instructions in request.json.
+3. Run clues and validate. If either reports an error or a warning, fix the clues.
+4. Create the PDF if LibreOffice is available; otherwise keep the SVG.
+At the end, list the clues you are unsure about and the words that belong in the pomucka.
+```
+
+4. Find the finished files in `out/`. Read every word and clue before printing.
+
+Tested with Claude. Not tried with other models; any model that writes good Czech should work.
+
+**Who does what.** The agent runs the commands, writes the clues and watches for errors. You choose the topic and the tajenka and decide what gets printed. In the sample puzzle a model wrote the clues, and the author rewrote six of 65 by hand.
+
+**Without an agent, in a normal chat.** Generate the grid as in "Manual steps" (step 1). Then upload `request.json` to the chat and write: "Write clues.json following the instructions in the file. Return only the contents of the file." The instructions for the model (in Czech) and the required format are inside `request.json`. Save the answer as `clues.json` in the same folder and continue with step 3.
+
+**Getting good clues**
+
+- Words first, clues second. A word that does not suit is fixed faster by another `--seed` than by a clue that works around it.
+- The program checks the clue length (at most 28 characters) and that the clue does not contain the word's stem. Whether a clue is clear and fitting only a person can judge.
+- Words a solver cannot be expected to know belong in `pomucka`. They are printed as you write them, capital or lower case.
+- `request.json` gives each word its dictionary meaning (`gloss`) and markers (`flags`). A few words have no meaning at all, because they come only from the frequency list; their clues rest on the model's own knowledge, so check them.
+
 ## Requirements
 
 - **Python 3.10 or newer**, standard library only. Check with `python3 --version`. Tested on Python 3.14 under Linux.
@@ -18,7 +54,9 @@ A finished sample is in [`examples/eko_krizovka/`](examples/eko_krizovka/): the 
 
 Download the `krizovky` folder (on GitHub **Code → Download ZIP**, or the zip you were given) and unpack it. Run all commands below in a terminal opened in that folder.
 
-## Worked example
+## Manual steps
+
+The same steps the agent takes in the quick start. Use them if you prefer to type the commands yourself.
 
 ### 1. Generate the grid
 
@@ -28,7 +66,7 @@ python3 -m krizovky generate --mode swedish --size 16x12 --tajenka "SLAVÍME / D
 ```
 
 - `--size 16x12` is the grid size: 16 rows, 12 columns.
-- `--tajenka` is the phrase the solver uncovers. A slash `/` splits it into parts; each part gets its own shaded row.
+- `--tajenka` is the phrase the solver uncovers. A slash `/` splits it into parts; each part gets its own shaded row. A part needs at least 2 letters and at most one fewer than the grid has columns (11 for 12 columns). Spaces inside a part are dropped, so `V ZAHRADĚ` is printed as VZAHRADĚ.
 - `--title` is printed above the puzzle, `--theme` above the grid.
 - `--seed 2` picks a variant; another number gives another grid.
 - `--out out/den_zeme` is the output folder.
@@ -50,7 +88,7 @@ The program exits with code 3 because the clues are missing; at this point that 
 
 The clues go into `clues.json` in the same folder, in one of two ways:
 
-- **Let Claude write them.** Send it `request.json` and ask for `clues.json`. The clue-writing instructions (in Czech) and the file format are inside `request.json`. Save the answer as `out/den_zeme/clues.json`.
+- **Let a language model write them.** Send it `request.json` and ask for `clues.json`. The clue-writing instructions (in Czech) and the file format are inside `request.json`. Save the answer as `out/den_zeme/clues.json`.
 - **Write them by hand** in any text editor.
 
 The file looks like this (start of the sample):
@@ -139,6 +177,7 @@ Right after a command, `echo $?` shows the exit code.
   ```
   error: mode swedish draws words from the dictionary; --words is not used
   ```
+  You get the same code when a tajenka part has only one letter (`error: a tajenka run needs at least 2 cells, got 1`) or is longer than the grid can hold. Change the tajenka. Code 1 also comes with `--pdf` when LibreOffice is missing or cannot start (`error: soffice exited with 1: …`). The SVG files stay in the folder; open them in a browser.
 
 ## How to read the sheet
 
@@ -150,7 +189,7 @@ Right after a command, `echo $?` shows the exit code.
 
 ## Check before printing
 
-- The dictionary is built by machine. Dialect forms, obscure names, slang without an explanation, insults and vulgar words have been taken out, but a rare or old-fashioned word still gets into the grid now and then (SOC or MANĚ in the sample). Go through every word and clue before printing; if you dislike a word, generate again with another `--seed`.
+- The dictionary is built by machine. Dialect forms, obscure names, slang without an explanation, insults and vulgar words have been taken out, but a rare or old-fashioned word still gets into the grid now and then (SOC or MANĚ in the sample). Go through every word and clue before printing; if you dislike a word, generate again with another `--seed`. A grid usually holds some abbreviations and names; that is normal in magazines, and the clue marks an abbreviation with (zkr.).
 - Long words in clues are cut between syllables, but by a simple rule without a dictionary (CITOSLOV-CE). Foreign words and compounds can be cut in the wrong place.
 - The tajenka parts do not span the whole row, and the clue cells are spread more loosely than in magazines.
 - Clues written by a language model can be wrong. Check them.

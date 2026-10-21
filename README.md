@@ -6,6 +6,42 @@ Program sestaví českou **švédskou křížovku**, jakou znáte z časopisů:
 
 Hotová ukázka je ve složce [`examples/eko_krizovka/`](examples/eko_krizovka/): [křížovka k tisku](examples/eko_krizovka/puzzle.pdf) a [řešení](examples/eko_krizovka/solution.pdf). Tajenka je SLAVÍME / DEN / ZEMĚ, mřížka má 16 řádků a 12 sloupců.
 
+## Rychlý start s AI agentem (doporučeno)
+
+Program sestaví mřížku sám, legendy ale píše člověk nebo jazykový model. Nejméně práce máte, když obojí svěříte AI agentovi, který umí spouštět příkazy v terminálu, například Claude Code. Agent spustí program, napíše legendy, zkontroluje křížovku a vyrobí soubory k tisku. Vy zadáte téma a tajenku.
+
+1. Potřebujete Python 3.10 nebo novější a AI agenta s přístupem k terminálu.
+2. Rozbalte složku `krizovky` a v ní agenta spusťte (u Claude Code příkazem `claude`).
+3. Vložte zadání upravené podle svého tématu. Tajenku dělte lomítkem na díly, každý díl má mít 2 až 11 písmen (při velikosti 16x12):
+
+```text
+Udělej švédskou křížovku. Postupuj podle README.md, část „Ruční postup“.
+Téma: ochrana životního prostředí. Tajenka: SLAVÍME / DEN / ZEMĚ. Velikost: 16x12.
+1. Vygeneruj mřížku a projdi slova v request.json. Když je mezi nimi slovo, které se
+   do křížovky pro širší publikum nehodí (vulgární, nářeční, příliš odborné nebo
+   zastaralé), vygeneruj mřížku znovu s jiným --seed.
+   Zkus to nejvýš třikrát, pak vezmi nejlepší mřížku.
+2. Napiš legendy do clues.json podle pokynů v request.json.
+3. Spusť clues a validate. Když skončí chybou nebo varováním, oprav legendy.
+4. Vytvoř PDF, pokud je k dispozici LibreOffice. Jinak nech SVG.
+Na konci vypiš legendy, kterých si nejsi jistý, a slova, která patří do pomůcky.
+```
+
+4. Hotové soubory najdete ve složce `out/`. Před tiskem projděte všechna slova i legendy.
+
+Postup je ověřený s Claude. S jinými modely vyzkoušený nebyl, měl by ale fungovat každý, který dobře píše česky.
+
+**Kdo co dělá.** Agent spouští příkazy, píše legendy a hlídá chyby. Vy volíte téma a tajenku a rozhodujete, co se vytiskne. V ukázkové křížovce psal legendy model a autor ručně přepsal šest z 65.
+
+**Bez agenta, v běžném chatu.** Mřížku vygenerujte podle části „Ruční postup“ (krok 1). Pak nahrajte `request.json` do chatu a napište: „Podle pokynů v souboru napiš clues.json. Vrať jen obsah souboru.“ Pokyny pro model (česky) i požadovaný tvar jsou přímo v `request.json`. Odpověď uložte jako `clues.json` do stejné složky a pokračujte krokem 3.
+
+**Jak získat dobré legendy**
+
+- Nejdřív slova, potom legendy. Nehodící se slovo vyřešíte rychleji jiným `--seed` než legendou, která ho obejde.
+- Program hlídá délku legendy (nejvýš 28 znaků) a to, že neobsahuje základ slova. Srozumitelnost a výstižnost posoudí jen člověk.
+- Slova, která luštitel nemusí znát, patří do `pomucka`. Vytisknou se tak, jak je napíšete, s velkými i malými písmeny.
+- V `request.json` má každé slovo slovníkový výklad (`gloss`) a značky (`flags`). U několika slov výklad chybí, protože jsou jen ve frekvenčním seznamu. Jejich legenda stojí na znalostech modelu, proto je zkontrolujte.
+
 ## Co je potřeba
 
 - **Python 3.10 nebo novější.** Jiné knihovny nejsou potřeba. Verzi zjistíte příkazem `python3 --version`. Program je vyzkoušený na Pythonu 3.14 v Linuxu.
@@ -16,7 +52,9 @@ Hotová ukázka je ve složce [`examples/eko_krizovka/`](examples/eko_krizovka/)
 
 Stáhněte si složku `krizovky` (na GitHubu tlačítko **Code → Download ZIP**, nebo zip, který jste dostali) a rozbalte ji. Všechny příkazy níže se zadávají do terminálu otevřeného v této složce.
 
-## Příklad krok za krokem
+## Ruční postup
+
+Stejné kroky, které v rychlém startu dělá agent. Hodí se, když příkazy zadáváte sami.
 
 ### 1. Vygenerujte mřížku
 
@@ -26,7 +64,7 @@ python3 -m krizovky generate --mode swedish --size 16x12 --tajenka "SLAVÍME / D
 ```
 
 - `--size 16x12` je velikost mřížky: 16 řádků, 12 sloupců.
-- `--tajenka` je text, který luštitel odhalí. Lomítko `/` ho dělí na díly a každý díl dostane vlastní šedý řádek.
+- `--tajenka` je text, který luštitel odhalí. Lomítko `/` ho dělí na díly a každý díl dostane vlastní šedý řádek. Díl má mít aspoň 2 písmena a nejvýš o jedno méně, než má mřížka sloupců (při 12 sloupcích tedy 11). Mezery uvnitř dílu program vynechá, `V ZAHRADĚ` se vypíše jako VZAHRADĚ.
 - `--title` je název nad křížovkou, `--theme` téma, které se vytiskne nad mřížku.
 - `--seed 2` vybírá variantu. Jiné číslo dá jinou mřížku.
 - `--out out/den_zeme` je složka, kam se výsledky uloží.
@@ -48,7 +86,7 @@ Program skončí kódem 3, protože chybí legendy. To je v tuto chvíli v po�
 
 Legendy patří do souboru `clues.json` ve stejné složce. Možnosti jsou dvě:
 
-- **Nechte je napsat Clauda.** Pošlete mu soubor `request.json` a požádejte ho o `clues.json`. Pokyny k psaní legend (česky) i požadovaný tvar souboru jsou přímo v `request.json`. Odpověď uložte jako `out/den_zeme/clues.json`.
+- **Nechte je napsat jazykovému modelu.** Pošlete mu soubor `request.json` a požádejte ho o `clues.json`. Pokyny k psaní legend (česky) i požadovaný tvar souboru jsou přímo v `request.json`. Odpověď uložte jako `out/den_zeme/clues.json`.
 - **Napište je ručně** v libovolném textovém editoru.
 
 Soubor vypadá takto (začátek ukázky):
@@ -137,6 +175,7 @@ Další dva jednodušší typy křížovek (doplňovačka s tajenkou ve sloupci
   ```
   error: mode swedish draws words from the dictionary; --words is not used
   ```
+  Stejný kód dostanete, když má díl tajenky jen jedno písmeno (`error: a tajenka run needs at least 2 cells, got 1`) nebo je delší, než se do mřížky vejde. Pak upravte tajenku. Kód 1 dostanete také u `--pdf`, když LibreOffice chybí nebo se nespustí (`error: soffice exited with 1: …`). SVG soubory ve složce přitom zůstanou, otevřete je v prohlížeči.
 
 ## Jak číst list
 
@@ -148,7 +187,7 @@ Další dva jednodušší typy křížovek (doplňovačka s tajenkou ve sloupci
 
 ## Co hlídat před tiskem
 
-- Slovník je sestavený strojově. Nářeční tvary, neznámá jména, slangová slova bez vysvětlení, nadávky a vulgarismy jsou z něj vyřazené, přesto do mřížky občas projde slovo vzácné nebo zastaralé (v ukázce třeba SOC nebo MANĚ). Před tiskem projděte všechna slova i legendy. Když se vám některé slovo nelíbí, vygenerujte mřížku znovu s jiným `--seed`.
+- Slovník je sestavený strojově. Nářeční tvary, neznámá jména, slangová slova bez vysvětlení, nadávky a vulgarismy jsou z něj vyřazené, přesto do mřížky občas projde slovo vzácné nebo zastaralé (v ukázce třeba SOC nebo MANĚ). Před tiskem projděte všechna slova i legendy. Když se vám některé slovo nelíbí, vygenerujte mřížku znovu s jiným `--seed`. V mřížce bývá několik zkratek a jmen; v časopisech je to běžné a legenda zkratku označí (zkr.).
 - Dlouhé legendy se v políčku zalamují podle slabik, ale jen jednoduchým pravidlem bez slovníku (CITOSLOV-CE); u cizích slov a složenin se dělení může splést.
 - Díly tajenky nezabírají celý řádek a políčka s legendami jsou rozmístěná volněji než v časopisech.
 - Legendy, které napíše jazykový model, mohou obsahovat chybu. Zkontrolujte je.
