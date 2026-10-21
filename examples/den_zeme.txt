@@ -1,0 +1,31 @@
+# Den Země — one word per line, optional TAB + clue. Lines starting with # are ignored.
+recyklace	opětovné zpracování použitých materiálů
+příroda	vše živé i neživé kolem nás, co nevytvořil člověk
+strom	dřevina s kmenem a korunou
+voda	tekutina, bez které není život
+energie	to, co pohání stroje i naše tělo
+odpad	to, co vyhazujeme do koše
+vzduch	směs plynů, kterou dýcháme
+les	místo plné stromů
+ekologie	nauka o vztazích organismů a prostředí
+slunce	hvězda, která nám svítí a hřeje
+vítr	proudění vzduchu
+kompost	hromada, kde se rozkládají zbytky z kuchyně a zahrady
+semeno	z něho vyroste rostlina
+květina	rostlina s barevnými okvětními lístky
+zvíře	živočich, třeba pes nebo liška
+planeta	těleso obíhající kolem hvězdy
+oceán	největší vodní plocha na světě
+déšť	kapky padající z mraků
+třídění	rozdělování odpadu do barevných kontejnerů
+půda	hlína, ve které rostou rostliny
+rostlina	zelený organismus, který roste ze země
+motýl	hmyz s barevnými křídly
+včela	hmyz, který sbírá nektar a dává med
+žížala	červ, který provzdušňuje hlínu
+ozon	plyn, jehož vrstva nás chrání před slunečním zářením
+klima	dlouhodobý ráz počasí
+hmyz	drobní živočichové se šesti nohama
+louka	travnatá plocha plná květin
+potok	malý tok tekoucí vody
+město	velké sídlo s ulicemi a domy

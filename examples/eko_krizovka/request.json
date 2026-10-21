@@ -1,0 +1,1114 @@
+{
+ "version": 1,
+ "kind": "clues",
+ "language": "cs",
+ "theme": "Ochrana životního prostředí",
+ "tajenka": "SLAVÍME / DEN / ZEMĚ",
+ "match": "strict",
+ "instructions": "Napiš ke každému slovu v items jednu křížovkářskou legendu do políčka švédské křížovky: stručná definice (ne věta), nejvýše 28 znaků, česky, v prvním pádě tam, kde to dává smysl. Legenda nesmí obsahovat žádný tvar odpovědi ani slovo od ní odvozené. Vycházej z gloss, form a flags u položky (freq je pořadí v seznamu četnosti, čím nižší, tím běžnější slovo, 0 = v seznamu není) a piš jako časopisecké křížovky: zkratku označ „(zkr.)“ (flag zkr.), množné číslo podle form „(mn. č.)“, dále „zast.“, „kniž.“, „hovor.“, „nář.“ podle flags, „slovensky“, „domácky“, „SPZ …“ (značka vozidla), „chem. zn.“, „(římsky)“ pro římské číslo a u cizího slova jeho jazyk (např. „angl.“). Pozice slov v mřížce neřeš, měň jen legendy. Do pole pomucka dej odpovědi, které luštitel nemusí znát (cizí slova, zkratky, jména), přesně v podobě, jak se mají vytisknout („anis“, „Denali“, „MTI“). Vrať soubor clues.json ve tvaru uvedeném ve schema, klíčem v clues je odpověď (answer) velkými písmeny.",
+ "items": [
+  {
+   "answer": "PRSK",
+   "cells": [
+    "P",
+    "R",
+    "S",
+    "K"
+   ],
+   "length": 4,
+   "pos": "intj",
+   "gloss": "vyjadřuje prsknutí; užito vícečetně pak vyjadřuje prskání",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 0
+  },
+  {
+   "answer": "OSTROV",
+   "cells": [
+    "O",
+    "S",
+    "T",
+    "R",
+    "O",
+    "V"
+   ],
+   "length": 6,
+   "pos": "noun",
+   "gloss": "část pevniny ze všech stran obklopená vodou",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 2662
+  },
+  {
+   "answer": "ROVY",
+   "cells": [
+    "R",
+    "O",
+    "V",
+    "Y"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "hrob; pahrbek (většinou hlíny) navršený nad hrobem (mn. č.)",
+   "synonyms": [],
+   "form": "accusative instrumental nominative plural vocative",
+   "flags": [
+    "kniž."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "SKELNÝ",
+   "cells": [
+    "S",
+    "K",
+    "E",
+    "L",
+    "N",
+    "Ý"
+   ],
+   "length": 6,
+   "pos": "adj",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "en-wikt"
+   ],
+   "freq": 65445
+  },
+  {
+   "answer": "PUB",
+   "cells": [
+    "P",
+    "U",
+    "B"
+   ],
+   "length": 3,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 93827
+  },
+  {
+   "answer": "TET",
+   "cells": [
+    "T",
+    "E",
+    "T"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "písmeno hebrejské abecedy",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 0
+  },
+  {
+   "answer": "HALT",
+   "cells": [
+    "H",
+    "A",
+    "L",
+    "T"
+   ],
+   "length": 4,
+   "pos": "intj",
+   "gloss": "stát!, stůj!",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 158320
+  },
+  {
+   "answer": "CO",
+   "cells": [
+    "C",
+    "O"
+   ],
+   "length": 2,
+   "pos": "pron",
+   "gloss": "zájmeno v otázkách týkajících se věcí, jevů a zvířat",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 8
+  },
+  {
+   "answer": "BLÁ",
+   "cells": [
+    "B",
+    "L",
+    "Á"
+   ],
+   "length": 3,
+   "pos": "intj",
+   "gloss": "nápodoba blábolení",
+   "synonyms": [],
+   "form": "alternative",
+   "flags": [],
+   "freq": 42336
+  },
+  {
+   "answer": "EULER",
+   "cells": [
+    "E",
+    "U",
+    "L",
+    "E",
+    "R"
+   ],
+   "length": 5,
+   "pos": "name",
+   "gloss": "Leonhard Euler, švýcarský matematik",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "vl."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "MAYA",
+   "cells": [
+    "M",
+    "A",
+    "Y",
+    "A"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "ženské křestní jméno",
+   "synonyms": [],
+   "form": "alternative",
+   "flags": [],
+   "freq": 11302
+  },
+  {
+   "answer": "OTKA",
+   "cells": [
+    "O",
+    "T",
+    "K",
+    "A"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "nástroj na seškrabávání hlíny z pluhu",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 77226
+  },
+  {
+   "answer": "MN",
+   "cells": [
+    "M",
+    "N"
+   ],
+   "length": 2,
+   "pos": "abbrev",
+   "gloss": "malé napětí",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 88716
+  },
+  {
+   "answer": "VAR",
+   "cells": [
+    "V",
+    "A",
+    "R"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "stav překotné přeměny kapaliny v páru",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 58642
+  },
+  {
+   "answer": "FAX",
+   "cells": [
+    "F",
+    "A",
+    "X"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "kopie dopisu apod., která se pomocí speciálního přístroje posílala po telefonní lince",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 18981
+  },
+  {
+   "answer": "TAMPÓNY",
+   "cells": [
+    "T",
+    "A",
+    "M",
+    "P",
+    "Ó",
+    "N",
+    "Y"
+   ],
+   "length": 7,
+   "pos": "noun",
+   "gloss": "kus savého materiálu určeného k absorpci tekutin (ve zdravotnictví) (mn. č.)",
+   "synonyms": [],
+   "form": "accusative instrumental nominative plural vocative",
+   "flags": [],
+   "freq": 32161
+  },
+  {
+   "answer": "TISY",
+   "cells": [
+    "T",
+    "I",
+    "S",
+    "Y"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "jehličnatý strom nebo keř z čeledi tisovitých (mn. č.)",
+   "synonyms": [],
+   "form": "accusative instrumental nominative plural vocative",
+   "flags": [],
+   "freq": 0
+  },
+  {
+   "answer": "ARRAS",
+   "cells": [
+    "A",
+    "R",
+    "R",
+    "A",
+    "S"
+   ],
+   "length": 5,
+   "pos": "noun",
+   "gloss": "město ve Francii",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "vl."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "POVALENÝ",
+   "cells": [
+    "P",
+    "O",
+    "V",
+    "A",
+    "L",
+    "E",
+    "N",
+    "Ý"
+   ],
+   "length": 8,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 102011
+  },
+  {
+   "answer": "LI",
+   "cells": [
+    "L",
+    "I"
+   ],
+   "length": 2,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 6139
+  },
+  {
+   "answer": "EM",
+   "cells": [
+    "E",
+    "M"
+   ],
+   "length": 2,
+   "pos": "noun",
+   "gloss": "název hlásky a písmene M / m",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 5362
+  },
+  {
+   "answer": "SO",
+   "cells": [
+    "S",
+    "O"
+   ],
+   "length": 2,
+   "pos": "abbrev",
+   "gloss": "stavební objekt",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 4252
+  },
+  {
+   "answer": "LONI",
+   "cells": [
+    "L",
+    "O",
+    "N",
+    "I"
+   ],
+   "length": 4,
+   "pos": "adv",
+   "gloss": "v minulém roce",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 3655
+  },
+  {
+   "answer": "TOGO",
+   "cells": [
+    "T",
+    "O",
+    "G",
+    "O"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "stát v západní Africe ležící na Zlatonosném pobřeží",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "vl."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "STAV",
+   "cells": [
+    "S",
+    "T",
+    "A",
+    "V"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "vlastnosti charakterizující něco nebo někoho v nějaké době, situaci",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 2161
+  },
+  {
+   "answer": "STOLON",
+   "cells": [
+    "S",
+    "T",
+    "O",
+    "L",
+    "O",
+    "N"
+   ],
+   "length": 6,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 124245
+  },
+  {
+   "answer": "OBMÝTNÍ",
+   "cells": [
+    "O",
+    "B",
+    "M",
+    "Ý",
+    "T",
+    "N",
+    "Í"
+   ],
+   "length": 7,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 122703
+  },
+  {
+   "answer": "IVA",
+   "cells": [
+    "I",
+    "V",
+    "A"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "ženské křestní jméno",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "vl."
+   ],
+   "freq": 172961
+  },
+  {
+   "answer": "CCA",
+   "cells": [
+    "C",
+    "C",
+    "A"
+   ],
+   "length": 3,
+   "pos": "abbrev",
+   "gloss": "cirka",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 38340
+  },
+  {
+   "answer": "LÍT",
+   "cells": [
+    "L",
+    "Í",
+    "T"
+   ],
+   "length": 3,
+   "pos": "verb",
+   "gloss": "vpouštět nebo vypouštět kapalinu",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 58488
+  },
+  {
+   "answer": "TÝK",
+   "cells": [
+    "T",
+    "Ý",
+    "K"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "asijský tropický strom",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 101663
+  },
+  {
+   "answer": "PRST",
+   "cells": [
+    "P",
+    "R",
+    "S",
+    "T"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "jeden z pěti pohyblivých útvarů ukončujících dlaň ruky",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 3700
+  },
+  {
+   "answer": "MMF",
+   "cells": [
+    "M",
+    "M",
+    "F"
+   ],
+   "length": 3,
+   "pos": "abbrev",
+   "gloss": "Mezinárodní měnový fond",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "PE",
+   "cells": [
+    "P",
+    "E"
+   ],
+   "length": 2,
+   "pos": "noun",
+   "gloss": "písmeno פ v hebrejské abecedě",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 134655
+  },
+  {
+   "answer": "SOC",
+   "cells": [
+    "S",
+    "O",
+    "C"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "kávová sedlina",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zast."
+   ],
+   "freq": 65362
+  },
+  {
+   "answer": "ROLE",
+   "cells": [
+    "R",
+    "O",
+    "L",
+    "E"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "sled akcí které má provést herec v divadelním nebo filmovém představení",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 4341
+  },
+  {
+   "answer": "ANATOM",
+   "cells": [
+    "A",
+    "N",
+    "A",
+    "T",
+    "O",
+    "M"
+   ],
+   "length": 6,
+   "pos": "noun",
+   "gloss": "člověk zabývající se anatomií, ať už jako student, lektor, nebo praktikující lékař",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 93027
+  },
+  {
+   "answer": "TBC",
+   "cells": [
+    "T",
+    "B",
+    "C"
+   ],
+   "length": 3,
+   "pos": "abbrev",
+   "gloss": "tuberkulóza",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "SVATBY",
+   "cells": [
+    "S",
+    "V",
+    "A",
+    "T",
+    "B",
+    "Y"
+   ],
+   "length": 6,
+   "pos": "noun",
+   "gloss": "obřad, při kterém vzniká manželství",
+   "synonyms": [],
+   "form": "accusative genitive nominative plural singular vocative",
+   "flags": [],
+   "freq": 4270
+  },
+  {
+   "answer": "XIV",
+   "cells": [
+    "X",
+    "I",
+    "V"
+   ],
+   "length": 3,
+   "pos": "num",
+   "gloss": "římsky 14",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 0
+  },
+  {
+   "answer": "LAMA",
+   "cells": [
+    "L",
+    "A",
+    "M",
+    "A"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "zvíře, zástupce rodu Lama nebo Vicugna z čeledi velbloudovití",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 35807
+  },
+  {
+   "answer": "KYV",
+   "cells": [
+    "K",
+    "Y",
+    "V"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "en-wikt"
+   ],
+   "freq": 112905
+  },
+  {
+   "answer": "LAD",
+   "cells": [
+    "L",
+    "A",
+    "D"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "pořádek, harmonie",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 79559
+  },
+  {
+   "answer": "SAZOVÝ",
+   "cells": [
+    "S",
+    "A",
+    "Z",
+    "O",
+    "V",
+    "Ý"
+   ],
+   "length": 6,
+   "pos": "adj",
+   "gloss": "související se sazemi",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 0
+  },
+  {
+   "answer": "ÍHÁ",
+   "cells": [
+    "Í",
+    "H",
+    "Á"
+   ],
+   "length": 3,
+   "pos": "intj",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "en-wikt"
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "ETYLEN",
+   "cells": [
+    "E",
+    "T",
+    "Y",
+    "L",
+    "E",
+    "N"
+   ],
+   "length": 6,
+   "pos": "noun",
+   "gloss": "chemická sloučenina ze skupiny alkenů, bezbarvý hořlavý plyn",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 122319
+  },
+  {
+   "answer": "TL",
+   "cells": [
+    "T",
+    "L"
+   ],
+   "length": 2,
+   "pos": "symbol",
+   "gloss": "chem. zn. thallia",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "OSMA",
+   "cells": [
+    "O",
+    "S",
+    "M",
+    "A"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "osmička",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 63090
+  },
+  {
+   "answer": "ONA",
+   "cells": [
+    "O",
+    "N",
+    "A"
+   ],
+   "length": 3,
+   "pos": "pron",
+   "gloss": "označuje osobu nebo věc ženského rodu, která vyplývá ze souvislostí",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 210
+  },
+  {
+   "answer": "EMISNÍ",
+   "cells": [
+    "E",
+    "M",
+    "I",
+    "S",
+    "N",
+    "Í"
+   ],
+   "length": 6,
+   "pos": "adj",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "en-wikt"
+   ],
+   "freq": 59343
+  },
+  {
+   "answer": "SKELET",
+   "cells": [
+    "S",
+    "K",
+    "E",
+    "L",
+    "E",
+    "T"
+   ],
+   "length": 6,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 65027
+  },
+  {
+   "answer": "MANĚ",
+   "cells": [
+    "M",
+    "A",
+    "N",
+    "Ě"
+   ],
+   "length": 4,
+   "pos": "adv",
+   "gloss": "bez úmyslu provést příslušnou akci, jen tak, nahodile",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 98448
+  },
+  {
+   "answer": "TÍT",
+   "cells": [
+    "T",
+    "Í",
+    "T"
+   ],
+   "length": 3,
+   "pos": "verb",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "en-wikt"
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "TE",
+   "cells": [
+    "T",
+    "E"
+   ],
+   "length": 2,
+   "pos": "symbol",
+   "gloss": "chem. zn. teluru",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "TUK",
+   "cells": [
+    "T",
+    "U",
+    "K"
+   ],
+   "length": 3,
+   "pos": "noun",
+   "gloss": "mastná organická látka",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 14166
+  },
+  {
+   "answer": "PRÝ",
+   "cells": [
+    "P",
+    "R",
+    "Ý"
+   ],
+   "length": 3,
+   "pos": "particle",
+   "gloss": "označuje nejisté přejaté sdělení",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 941
+  },
+  {
+   "answer": "TO",
+   "cells": [
+    "T",
+    "O"
+   ],
+   "length": 2,
+   "pos": "particle",
+   "gloss": "naproti tomu, ve srovnání s dříve řečeným (stejný tvar „to“ pro všechny tři rody)",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 1
+  },
+  {
+   "answer": "RLP",
+   "cells": [
+    "R",
+    "L",
+    "P"
+   ],
+   "length": 3,
+   "pos": "abbrev",
+   "gloss": "rychlá lékařská pomoc",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "zkr."
+   ],
+   "freq": 0
+  },
+  {
+   "answer": "LAVÓR",
+   "cells": [
+    "L",
+    "A",
+    "V",
+    "Ó",
+    "R"
+   ],
+   "length": 5,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 80608
+  },
+  {
+   "answer": "SOLIT",
+   "cells": [
+    "S",
+    "O",
+    "L",
+    "I",
+    "T"
+   ],
+   "length": 5,
+   "pos": "verb",
+   "gloss": "ochucovat jídlo kuchyňskou solí",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 81988
+  },
+  {
+   "answer": "ONUCE",
+   "cells": [
+    "O",
+    "N",
+    "U",
+    "C",
+    "E"
+   ],
+   "length": 5,
+   "pos": "noun",
+   "gloss": "pruh látky k ovinutí chodidel do obuvi",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 102461
+  },
+  {
+   "answer": "ANALOGOVÝ",
+   "cells": [
+    "A",
+    "N",
+    "A",
+    "L",
+    "O",
+    "G",
+    "O",
+    "V",
+    "Ý"
+   ],
+   "length": 9,
+   "pos": "adj",
+   "gloss": "mechanický (např. analogové hodiny)",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 59894
+  },
+  {
+   "answer": "VÝBOR",
+   "cells": [
+    "V",
+    "Ý",
+    "B",
+    "O",
+    "R"
+   ],
+   "length": 5,
+   "pos": "noun",
+   "gloss": "malá skupina osob pověřených spravováním záležitostí určitého sdružení",
+   "synonyms": [],
+   "form": "",
+   "flags": [],
+   "freq": 8862
+  },
+  {
+   "answer": "RYSI",
+   "cells": [
+    "R",
+    "Y",
+    "S",
+    "I"
+   ],
+   "length": 4,
+   "pos": "noun",
+   "gloss": "rod velkých kočkovitých šelem se svazky srsti na uších (mn. č.)",
+   "synonyms": [],
+   "form": "nominative plural vocative",
+   "flags": [],
+   "freq": 0
+  },
+  {
+   "answer": "ONAK",
+   "cells": [
+    "O",
+    "N",
+    "A",
+    "K"
+   ],
+   "length": 4,
+   "pos": "",
+   "gloss": "",
+   "synonyms": [],
+   "form": "",
+   "flags": [
+    "syn"
+   ],
+   "freq": 12407
+  }
+ ],
+ "schema": {
+  "version": 1,
+  "clues": {
+   "<ANSWER>": "<clue>"
+  },
+  "pomucka": [
+   "<answer>"
+  ]
+ }
+}

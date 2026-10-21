@@ -1,0 +1,31 @@
+{"word": "pudeme", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["půjdeme"], "tags": ["dialectal"]}]}
+{"word": "jít", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["pohybovat se pěšky"]}], "forms": [{"form": "jíti", "tags": ["alternative"]}, {"form": "dem", "tags": ["alternative"]}, {"form": "jdu", "tags": ["first-person", "present", "singular"]}]}
+{"word": "jíti", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["zastaralý a knižní tvar infinitivu slovesa jít"]}]}
+{"word": "chtít", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["mít vůli"]}]}
+{"word": "chtíti", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["chtít"]}]}
+{"word": "routi", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["rvát, škubat"]}]}
+{"word": "ěstí", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["zbytek po lemmatizaci"]}]}
+{"word": "haken", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["potupné označení člověka (zpravidla s přívlastkem slepý)"], "tags": ["obsolete"]}], "forms": [{"form": "hakeni", "tags": ["nominative", "plural"]}]}
+{"word": "trotl", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["nadávka: hlupák, blbec"]}]}
+{"word": "holomek", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["špatný muž nebo chlapec; nadávka muži nebo chlapci"]}]}
+{"word": "nadávka", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["hrubé, urážlivé nebo vulgární oslovení"]}]}
+{"word": "koketa", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["(často hanlivě) osoba usilující o náklonnost"]}]}
+{"word": "Zita", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["ženské křestní jméno"]}], "forms": [{"form": "Zity", "tags": ["nominative", "plural"]}, {"form": "Zito", "tags": ["vocative", "singular"]}]}
+{"word": "Vltava", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["řeka v Česku"]}], "forms": [{"form": "Vltavy", "tags": ["nominative", "plural"]}]}
+{"word": "OČTŘ", "lang_code": "cs", "pos": "abbrev", "senses": [{"glosses": ["orgány činné v trestním řízení"]}]}
+{"word": "FAMU", "lang_code": "cs", "pos": "abbrev", "senses": [{"glosses": ["Filmová a televizní fakulta AMU"]}]}
+{"word": "ČD", "lang_code": "cs", "pos": "abbrev", "senses": [{"glosses": ["České dráhy"]}]}
+{"word": "můj", "lang_code": "cs", "pos": "pron", "senses": [{"glosses": ["náležící mně"]}], "forms": [{"form": "muj", "tags": ["alternative"], "raw_tags": ["v obecném jazyce"]}, {"form": "má", "tags": ["nominative", "feminine", "singular"]}, {"form": "mé", "tags": ["nominative", "neuter", "singular"]}, {"form": "mé", "tags": [], "raw_tags": ["v obecném jazyce"]}, {"form": "mého", "tags": ["genitive", "masculine", "singular"]}]}
+{"word": "Eliin", "lang_code": "cs", "pos": "adj", "senses": [{"glosses": ["náležící Eli nebo Elí"]}]}
+{"word": "lesní", "lang_code": "cs", "pos": "adj", "senses": [{"glosses": ["týkající se lesa"]}]}
+{"word": "ee", "lang_code": "cs", "pos": "intj", "senses": [{"glosses": ["citoslovce kakání"]}]}
+{"word": "ona", "lang_code": "cs", "pos": "pron", "senses": [{"glosses": ["označuje osobu ženského rodu"]}], "forms": [{"form": "one", "tags": ["alternative"]}, {"form": "ony", "tags": ["alternative"]}]}
+{"word": "Zita", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["mužské křestní jméno"]}], "forms": [{"form": "Zity", "tags": ["alternative"]}]}
+{"word": "Ála", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["Albína"]}], "forms": [{"form": "Ály", "tags": ["nominative", "plural"]}]}
+{"word": "starej", "lang_code": "cs", "pos": "adj", "senses": [{"glosses": ["starý"], "tags": ["dialectal"]}]}
+{"word": "Terynek", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["české mužské příjmení"]}]}
+{"word": "Novotný", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["české příjmení"]}]}
+{"word": "Lada", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["ženské křestní jméno (a příjmení)"]}]}
+{"word": "oný", "lang_code": "cs", "pos": "pron", "senses": [{"glosses": ["(nářečně) onen"]}]}
+{"word": "vdolek", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["(v moravské kuchyni) kynutý koláč"]}]}
+{"word": "Stoun", "lang_code": "cs", "pos": "noun", "raw_tags": ["vlastní"], "senses": [{"glosses": ["britská hudební skupina Rolling Stones"], "tags": ["colloquial"]}]}

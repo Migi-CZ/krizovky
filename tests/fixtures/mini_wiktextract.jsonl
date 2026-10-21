@@ -1,0 +1,37 @@
+{"word": "růže", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["rostlina s trnitým stonkem"], "tags": []}], "forms": [{"form": "růža", "tags": ["alternative", "dialectal"]}, {"form": "ruža", "tags": ["alternative", "obsolete"]}, {"form": "růže", "tags": ["nominative", "singular"]}, {"form": "růží", "tags": ["genitive", "plural"]}, {"form": "růži", "tags": ["dative", "singular"]}, {"form": "růži", "tags": ["locative", "singular"]}, {"form": "růže pěkná", "tags": ["nominative", "singular"]}], "synonyms": [{"word": "kytka"}, {"word": "růžička"}, {"word": "květ"}, {"word": "čtvrté synonymum"}]}
+{"word": "růží", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["genitiv plurálu substantiva růže"], "tags": ["form-of"], "form_of": [{"word": "růže"}]}], "tags": ["feminine"]}
+{"word": "ptáčata", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["nominativ plurálu substantiva ptáče"], "tags": ["form-of"], "form_of": [{"word": "ptáče"}]}], "tags": ["neuter"]}
+{"word": "ptáče", "lang_code": "en", "pos": "noun", "senses": [{"glosses": ["a young bird (test entry: wrong language, must not count as a Czech lemma)"]}]}
+{"word": "světlá", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["třetí osoba jednotného čísla přítomného času slovesa světlat"], "tags": ["form-of"], "form_of": [{"word": "světlat"}]}]}
+{"word": "ČR", "lang_code": "cs", "pos": "abbrev", "senses": [{"glosses": ["Česká republika"]}]}
+{"word": "atd.", "lang_code": "cs", "pos": "abbrev", "senses": [{"glosses": ["a tak dále"]}]}
+{"word": "hlupák", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["hrubý výraz"], "tags": ["vulgar"]}, {"glosses": ["hanlivý výraz"], "tags": ["derogatory"]}], "forms": [{"form": "hlupáci", "tags": ["nominative", "plural"]}]}
+{"word": "pecka", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["hrubý výraz pro hlavu"], "tags": ["vulgar"]}, {"glosses": ["?"], "tags": ["no-gloss"]}, {"glosses": ["tvrdé jádro peckovice"]}]}
+{"word": "červená karkulka", "lang_code": "cs", "pos": "phrase", "senses": [{"glosses": ["postava z pohádky"]}]}
+{"word": "chata", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["malá obytná stavba"]}], "forms": [{"form": "chatě", "tags": ["dative", "singular"]}, {"form": "chatu", "tags": ["accusative", "singular"]}, {"form": "chaty", "tags": ["nominative", "plural"]}, {"form": "chaty", "tags": ["accusative", "plural"]}]}
+{"word": "chata", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["jiná chata"]}], "forms": [{"form": "chaty", "tags": ["nominative", "plural"]}, {"form": "chatky", "tags": ["nominative", "plural"]}]}
+{"word": "toliko", "lang_code": "cs", "pos": "adv", "senses": [{"glosses": ["pouze"], "tags": ["obsolete"]}, {"glosses": ["tolik"], "tags": ["archaic"]}]}
+{"word": "dobře", "lang_code": "cs", "pos": "adv", "senses": [{"glosses": ["dobrým způsobem"]}], "forms": [{"form": "lépe", "tags": ["comparative"]}, {"form": "nejlépe", "tags": ["superlative"]}]}
+{"word": "pít", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["přijímat tekutinu"]}], "forms": [{"form": "pil", "tags": ["masculine", "participle", "past", "singular"]}, {"form": "pije", "tags": ["indicative", "present", "singular", "third-person"]}, {"form": "pijte", "tags": ["imperative", "plural", "second-person"]}, {"form": "píti", "tags": ["alternative"]}]}
+{"word": "pes", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["domácí šelma"]}, {"glosses": ["muž"], "tags": ["colloquially"]}], "forms": [{"form": "psa", "tags": ["genitive", "singular"]}, {"form": "psi", "tags": ["animate", "nominative", "plural"]}, {"form": "pés", "tags": ["alternative"]}]}
+{"word": "fotka", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["fotografie"], "tags": ["colloquially"]}, {"glosses": ["snímek"], "tags": ["slang"]}]}
+{"word": "Praha", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["hlavní město České republiky"]}], "raw_tags": ["vlastní"], "forms": [{"form": "Prahy", "tags": ["genitive", "singular"]}, {"form": "Prahy", "tags": ["nominative", "plural"]}]}
+{"word": "Jan", "lang_code": "cs", "pos": "name", "senses": [{"glosses": ["mužské rodné jméno"]}]}
+{"word": "a", "lang_code": "cs", "pos": "conj", "senses": [{"glosses": ["spojka"]}]}
+{"word": "nejnepřekonatelnějšími", "lang_code": "cs", "pos": "adj", "senses": [{"glosses": ["too long for a crossword"]}]}
+{"word": "dog", "lang_code": "en", "pos": "noun", "senses": [{"glosses": ["pes"]}]}
+{"word": "dvěma", "lang_code": "cs", "pos": "num", "senses": [{"glosses": ["instrumentál číslovek dva a dvě"]}], "forms": [{"form": "dvouma", "tags": ["alternative"]}]}
+{"word": "čo", "lang_code": "cs", "pos": "pron", "senses": [{"glosses": ["co"], "tags": ["dialectal"]}]}
+{"word": "zelený", "lang_code": "cs", "pos": "adj", "senses": [{"glosses": ["mající barvu trávy"]}], "forms": [{"form": "zelená", "tags": ["feminine", "nominative", "singular"]}, {"form": "zelení", "tags": ["animate", "masculine", "nominative", "plural"]}, {"form": "zeleného", "tags": ["genitive", "masculine", "singular"]}]}
+{"word": "šil", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["příčestí minulé jednotného čísla mužského rodu slovesa šít"]}]}
+{"word": "idem", "lang_code": "cs", "pos": "adv", "senses": [{"glosses": ["?"], "tags": ["no-gloss"]}]}
+{"word": "nim", "lang_code": "cs", "pos": "pron", "senses": [{"glosses": ["(po předložce) dativ zájmena on"]}]}
+{"word": "Syn", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["(v křesťanství) druhá osoba Nejsvětější Trojice"]}]}
+{"word": "ho", "lang_code": "cs", "pos": "pron", "senses": [{"glosses": ["příklonný tvar akuzativu zájmena on"]}]}
+{"word": "sláb", "lang_code": "cs", "pos": "adj", "senses": [{"glosses": ["jmenný tvar přídavného jména slabý"]}]}
+{"word": "participium", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["jmenný tvar slovesa"]}]}
+{"word": "mrdat", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["mít pohlavní styk"], "tags": ["vulgar"]}, {"glosses": ["mrkat, třepetat"], "tags": ["obsolete"]}]}
+{"word": "šulda", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["hrubý výraz"], "tags": ["vulgar"]}, {"glosses": ["neupravená žena"]}]}
+{"word": "pták", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["opeřený obratlovec"]}, {"glosses": ["hrubý výraz"], "tags": ["vulgar"]}], "forms": [{"form": "sračka", "tags": ["alternative"]}]}
+{"word": "Kč", "lang_code": "cs", "pos": "symbol", "senses": [{"glosses": ["koruna česká"]}]}
+{"word": "kokot", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["penis"]}]}

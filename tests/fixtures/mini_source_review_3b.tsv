@@ -1,0 +1,14 @@
+word	source	group	verdict	note
+Fučík	en-wikt	A	keep	Julius Fučík, novinář
+Žbrdlík	en-wikt	A	drop	nikdo známý
+banjo	en-wikt	B	keep	
+garden	en-wikt	B	drop	anglicky
+ach	en-wikt	C	keep	citoslovce
+eh	en-wikt	C	drop	
+sulc	syn	B	keep	
+about	syn	B	drop	
+timu	syn	B	drop	lemmatizační odpad
+jo	syn	C	keep	
+xo	syn	C	drop	
+nic	syn	B	keep	
+Ida	en-wikt	C	keep	ženské jméno

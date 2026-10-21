@@ -1,0 +1,536 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297" font-family="DejaVu Sans, Noto Sans, Arial, sans-serif">
+<text class="title" x="105" y="22" font-size="7" text-anchor="middle" font-weight="bold">Eko křížovka – řešení</text>
+<text class="header" x="105" y="29" font-size="3.2" text-anchor="middle">Ochrana životního prostředí</text>
+<rect class="cell" x="22.125" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="35" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="48.812" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="62.625" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="76.438" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="76.438" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="76.438" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="76.438" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="76.438" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="76.438" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="90.25" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="104.062" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="117.875" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="131.688" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="131.688" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="131.688" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="131.688" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="145.5" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="159.312" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="173.125" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="186.938" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="186.938" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="186.938" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="186.938" width="13.812" height="13.812" fill="#e0e0e0" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="186.938" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="200.75" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="214.562" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="228.375" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="22.125" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="35.938" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="49.75" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="63.562" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="77.375" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="91.188" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="105" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="118.812" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="132.625" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="146.438" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="160.25" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<rect class="cell" x="174.062" y="242.188" width="13.812" height="13.812" fill="#ffffff" stroke="#000000" stroke-width="0.3"/>
+<circle class="black" cx="29.031" cy="41.906" r="4.144" fill="#000000"/>
+<circle class="black" cx="98.094" cy="41.906" r="4.144" fill="#000000"/>
+<line class="split" x1="91.188" y1="69.531" x2="105" y2="69.531" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="132.625" y1="83.344" x2="146.438" y2="83.344" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="77.375" y1="97.156" x2="91.188" y2="97.156" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="146.438" y1="97.156" x2="160.25" y2="97.156" stroke="#000000" stroke-width="0.3"/>
+<circle class="black" cx="29.031" cy="110.969" r="4.144" fill="#000000"/>
+<line class="split" x1="49.75" y1="110.969" x2="63.562" y2="110.969" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="105" y1="110.969" x2="118.812" y2="110.969" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="91.188" y1="124.781" x2="105" y2="124.781" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="63.562" y1="138.594" x2="77.375" y2="138.594" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="132.625" y1="138.594" x2="146.438" y2="138.594" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="77.375" y1="152.406" x2="91.188" y2="152.406" stroke="#000000" stroke-width="0.3"/>
+<circle class="black" cx="29.031" cy="166.219" r="4.144" fill="#000000"/>
+<line class="split" x1="35.938" y1="166.219" x2="49.75" y2="166.219" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="105" y1="166.219" x2="118.812" y2="166.219" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="146.438" y1="180.031" x2="160.25" y2="180.031" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="63.562" y1="193.844" x2="77.375" y2="193.844" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="132.625" y1="193.844" x2="146.438" y2="193.844" stroke="#000000" stroke-width="0.3"/>
+<circle class="black" cx="29.031" cy="207.656" r="4.144" fill="#000000"/>
+<line class="split" x1="49.75" y1="207.656" x2="63.562" y2="207.656" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="118.812" y1="207.656" x2="132.625" y2="207.656" stroke="#000000" stroke-width="0.3"/>
+<line class="split" x1="91.188" y1="221.469" x2="105" y2="221.469" stroke="#000000" stroke-width="0.3"/>
+<text class="letter" x="42.844" y="58.619" font-size="8.287" text-anchor="middle">P</text>
+<text class="letter" x="56.656" y="58.619" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="70.469" y="58.619" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="84.281" y="58.619" font-size="8.287" text-anchor="middle">K</text>
+<text class="letter" x="111.906" y="58.619" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="125.719" y="58.619" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="139.531" y="58.619" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="153.344" y="58.619" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="167.156" y="58.619" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="180.969" y="58.619" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="42.844" y="72.432" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="56.656" y="72.432" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="70.469" y="72.432" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="84.281" y="72.432" font-size="8.287" text-anchor="middle">Y</text>
+<text class="letter" x="111.906" y="72.432" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="125.719" y="72.432" font-size="8.287" text-anchor="middle">K</text>
+<text class="letter" x="139.531" y="72.432" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="153.344" y="72.432" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="167.156" y="72.432" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="180.969" y="72.432" font-size="8.287" text-anchor="middle">Ý</text>
+<text class="letter" x="42.844" y="86.244" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="56.656" y="86.244" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="70.469" y="86.244" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="84.281" y="86.244" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="98.094" y="86.244" font-size="8.287" text-anchor="middle">Í</text>
+<text class="letter" x="111.906" y="86.244" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="125.719" y="86.244" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="153.344" y="86.244" font-size="8.287" text-anchor="middle">P</text>
+<text class="letter" x="167.156" y="86.244" font-size="8.287" text-anchor="middle">U</text>
+<text class="letter" x="180.969" y="86.244" font-size="8.287" text-anchor="middle">B</text>
+<text class="letter" x="42.844" y="100.057" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="56.656" y="100.057" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="70.469" y="100.057" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="98.094" y="100.057" font-size="8.287" text-anchor="middle">H</text>
+<text class="letter" x="111.906" y="100.057" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="125.719" y="100.057" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="139.531" y="100.057" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="167.156" y="100.057" font-size="8.287" text-anchor="middle">C</text>
+<text class="letter" x="180.969" y="100.057" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="70.469" y="113.869" font-size="8.287" text-anchor="middle">B</text>
+<text class="letter" x="84.281" y="113.869" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="98.094" y="113.869" font-size="8.287" text-anchor="middle">Á</text>
+<text class="letter" x="125.719" y="113.869" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="139.531" y="113.869" font-size="8.287" text-anchor="middle">U</text>
+<text class="letter" x="153.344" y="113.869" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="167.156" y="113.869" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="180.969" y="113.869" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="42.844" y="127.682" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="56.656" y="127.682" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="70.469" y="127.682" font-size="8.287" text-anchor="middle">Y</text>
+<text class="letter" x="84.281" y="127.682" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="111.906" y="127.682" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="125.719" y="127.682" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="139.531" y="127.682" font-size="8.287" text-anchor="middle">K</text>
+<text class="letter" x="153.344" y="127.682" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="42.844" y="141.494" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="56.656" y="141.494" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="84.281" y="141.494" font-size="8.287" text-anchor="middle">D</text>
+<text class="letter" x="98.094" y="141.494" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="111.906" y="141.494" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="153.344" y="141.494" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="167.156" y="141.494" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="180.969" y="141.494" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="42.844" y="155.307" font-size="8.287" text-anchor="middle">F</text>
+<text class="letter" x="56.656" y="155.307" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="70.469" y="155.307" font-size="8.287" text-anchor="middle">X</text>
+<text class="letter" x="98.094" y="155.307" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="111.906" y="155.307" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="125.719" y="155.307" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="139.531" y="155.307" font-size="8.287" text-anchor="middle">P</text>
+<text class="letter" x="153.344" y="155.307" font-size="8.287" text-anchor="middle">Ó</text>
+<text class="letter" x="167.156" y="155.307" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="180.969" y="155.307" font-size="8.287" text-anchor="middle">Y</text>
+<text class="letter" x="56.656" y="169.119" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="70.469" y="169.119" font-size="8.287" text-anchor="middle">I</text>
+<text class="letter" x="84.281" y="169.119" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="98.094" y="169.119" font-size="8.287" text-anchor="middle">Y</text>
+<text class="letter" x="125.719" y="169.119" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="139.531" y="169.119" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="153.344" y="169.119" font-size="8.287" text-anchor="middle">R</text>
+<text class="letter" x="167.156" y="169.119" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="180.969" y="169.119" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="42.844" y="182.932" font-size="8.287" text-anchor="middle">P</text>
+<text class="letter" x="56.656" y="182.932" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="70.469" y="182.932" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="84.281" y="182.932" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="98.094" y="182.932" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="111.906" y="182.932" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="125.719" y="182.932" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="139.531" y="182.932" font-size="8.287" text-anchor="middle">Ý</text>
+<text class="letter" x="167.156" y="182.932" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="180.969" y="182.932" font-size="8.287" text-anchor="middle">I</text>
+<text class="letter" x="42.844" y="196.744" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="56.656" y="196.744" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="84.281" y="196.744" font-size="8.287" text-anchor="middle">Z</text>
+<text class="letter" x="98.094" y="196.744" font-size="8.287" text-anchor="middle">E</text>
+<text class="letter" x="111.906" y="196.744" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="125.719" y="196.744" font-size="8.287" text-anchor="middle">Ě</text>
+<text class="letter" x="153.344" y="196.744" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="167.156" y="196.744" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="70.469" y="210.557" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="84.281" y="210.557" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="98.094" y="210.557" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="111.906" y="210.557" font-size="8.287" text-anchor="middle">I</text>
+<text class="letter" x="139.531" y="210.557" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="153.344" y="210.557" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="167.156" y="210.557" font-size="8.287" text-anchor="middle">G</text>
+<text class="letter" x="180.969" y="210.557" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="42.844" y="224.369" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="56.656" y="224.369" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="70.469" y="224.369" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="84.281" y="224.369" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="111.906" y="224.369" font-size="8.287" text-anchor="middle">S</text>
+<text class="letter" x="125.719" y="224.369" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="139.531" y="224.369" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="153.344" y="224.369" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="167.156" y="224.369" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="180.969" y="224.369" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="42.844" y="238.182" font-size="8.287" text-anchor="middle">O</text>
+<text class="letter" x="56.656" y="238.182" font-size="8.287" text-anchor="middle">B</text>
+<text class="letter" x="70.469" y="238.182" font-size="8.287" text-anchor="middle">M</text>
+<text class="letter" x="84.281" y="238.182" font-size="8.287" text-anchor="middle">Ý</text>
+<text class="letter" x="98.094" y="238.182" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="111.906" y="238.182" font-size="8.287" text-anchor="middle">N</text>
+<text class="letter" x="125.719" y="238.182" font-size="8.287" text-anchor="middle">Í</text>
+<text class="letter" x="153.344" y="238.182" font-size="8.287" text-anchor="middle">I</text>
+<text class="letter" x="167.156" y="238.182" font-size="8.287" text-anchor="middle">V</text>
+<text class="letter" x="180.969" y="238.182" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="42.844" y="251.994" font-size="8.287" text-anchor="middle">C</text>
+<text class="letter" x="56.656" y="251.994" font-size="8.287" text-anchor="middle">C</text>
+<text class="letter" x="70.469" y="251.994" font-size="8.287" text-anchor="middle">A</text>
+<text class="letter" x="98.094" y="251.994" font-size="8.287" text-anchor="middle">L</text>
+<text class="letter" x="111.906" y="251.994" font-size="8.287" text-anchor="middle">Í</text>
+<text class="letter" x="125.719" y="251.994" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="153.344" y="251.994" font-size="8.287" text-anchor="middle">T</text>
+<text class="letter" x="167.156" y="251.994" font-size="8.287" text-anchor="middle">Ý</text>
+<text class="letter" x="180.969" y="251.994" font-size="8.287" text-anchor="middle">K</text>
+<text class="clue" x="42.844" y="42.415" font-size="2.21" text-anchor="middle">ČÁST RUKY</text>
+<text class="clue" x="56.656" y="41.199" font-size="2.21" text-anchor="middle">ÚLOHA</text>
+<text class="clue" x="56.656" y="43.63" font-size="2.21" text-anchor="middle">HERCE</text>
+<text class="clue" x="70.469" y="42.415" font-size="2.21" text-anchor="middle">SŇATKY</text>
+<text class="clue" x="84.281" y="41.199" font-size="2.21" text-anchor="middle">KMITAVÝ</text>
+<text class="clue" x="84.281" y="43.63" font-size="2.21" text-anchor="middle">POHYB</text>
+<text class="clue" x="111.906" y="42.415" font-size="2.21" text-anchor="middle">ČÍSLICE 8</text>
+<text class="clue" x="125.719" y="42.415" font-size="2.21" text-anchor="middle">KOSTRA</text>
+<text class="clue" x="139.531" y="39.984" font-size="2.21" text-anchor="middle">ZNAČKA</text>
+<text class="clue" x="139.531" y="42.415" font-size="2.21" text-anchor="middle">PRVKU Č.</text>
+<text class="clue" x="139.531" y="44.846" font-size="2.21" text-anchor="middle">52</text>
+<text class="clue" x="153.344" y="38.768" font-size="2.21" text-anchor="middle">RYCHLÁ</text>
+<text class="clue" x="153.344" y="41.199" font-size="2.21" text-anchor="middle">LÉK.</text>
+<text class="clue" x="153.344" y="43.63" font-size="2.21" text-anchor="middle">POMOC</text>
+<text class="clue" x="153.344" y="46.061" font-size="2.21" text-anchor="middle">(ZKR.)</text>
+<text class="clue" x="167.156" y="39.984" font-size="2.21" text-anchor="middle">PŘED-</text>
+<text class="clue" x="167.156" y="42.415" font-size="2.21" text-anchor="middle">CHŮDCE</text>
+<text class="clue" x="167.156" y="44.846" font-size="2.21" text-anchor="middle">PONOŽKY</text>
+<text class="clue" x="180.969" y="41.199" font-size="2.21" text-anchor="middle">KOMISE,</text>
+<text class="clue" x="180.969" y="43.63" font-size="2.21" text-anchor="middle">RADA</text>
+<text class="clue" x="29.031" y="53.796" font-size="2.21" text-anchor="middle">CITOSLOV-</text>
+<text class="clue" x="29.031" y="56.227" font-size="2.21" text-anchor="middle">CE SYČENÍ</text>
+<text class="clue" x="29.031" y="58.658" font-size="2.21" text-anchor="middle">KOČKY</text>
+<text class="clue" x="98.094" y="53.796" font-size="2.21" text-anchor="middle">ZEMĚ</text>
+<text class="clue" x="98.094" y="56.227" font-size="2.21" text-anchor="middle">OBKLOPE-</text>
+<text class="clue" x="98.094" y="58.658" font-size="2.21" text-anchor="middle">NÁ VODOU</text>
+<text class="clue" x="29.031" y="68.824" font-size="2.21" text-anchor="middle">HROBY</text>
+<text class="clue" x="29.031" y="71.255" font-size="2.21" text-anchor="middle">(KNIŽ.)</text>
+<text class="clue" x="98.094" y="65.587" font-size="2.003" text-anchor="middle">STRNULÝ (O</text>
+<text class="clue" x="98.094" y="67.79" font-size="2.003" text-anchor="middle">POHLEDU)</text>
+<text class="clue" x="98.094" y="73.343" font-size="2.21" text-anchor="middle">HLAS OSLA</text>
+<text class="clue" x="29.031" y="82.637" font-size="2.21" text-anchor="middle" font-weight="bold">1. DÍL</text>
+<text class="clue" x="29.031" y="85.068" font-size="2.21" text-anchor="middle" font-weight="bold">TAJENKY</text>
+<text class="clue" x="139.531" y="79.333" font-size="2.21" text-anchor="middle">ANGLICKÁ</text>
+<text class="clue" x="139.531" y="81.764" font-size="2.21" text-anchor="middle">HOSPODA</text>
+<text class="clue" x="139.531" y="87.155" font-size="2.21" text-anchor="middle">MASTNOTA</text>
+<text class="clue" x="29.031" y="95.234" font-size="2.21" text-anchor="middle">DEVÁTÉ</text>
+<text class="clue" x="29.031" y="97.665" font-size="2.21" text-anchor="middle">HEBREJSKÉ</text>
+<text class="clue" x="29.031" y="100.096" font-size="2.21" text-anchor="middle">PÍSMENO</text>
+<text class="clue" x="84.281" y="93.146" font-size="2.21" text-anchor="middle">STŮJ!</text>
+<text class="clue" x="84.281" y="95.577" font-size="2.21" text-anchor="middle">(NĚM.)</text>
+<text class="clue" x="84.281" y="99.752" font-size="2.21" text-anchor="middle">POŘÁDEK,</text>
+<text class="clue" x="84.281" y="102.183" font-size="2.21" text-anchor="middle">HARMONIE</text>
+<text class="clue" x="153.344" y="93.146" font-size="2.21" text-anchor="middle">TÁZACÍ</text>
+<text class="clue" x="153.344" y="95.577" font-size="2.21" text-anchor="middle">ZÁJMENO</text>
+<text class="clue" x="153.344" y="100.968" font-size="2.21" text-anchor="middle">UMYVADLO</text>
+<text class="clue" x="42.844" y="109.046" font-size="2.21" text-anchor="middle">MĚNOVÝ</text>
+<text class="clue" x="42.844" y="111.477" font-size="2.21" text-anchor="middle">FOND</text>
+<text class="clue" x="42.844" y="113.908" font-size="2.21" text-anchor="middle">(ZKR.)</text>
+<text class="clue" x="56.656" y="107.025" font-size="2.003" text-anchor="middle">CITOSLOV-</text>
+<text class="clue" x="56.656" y="109.228" font-size="2.003" text-anchor="middle">CE ŽVANĚNÍ</text>
+<text class="clue" x="56.656" y="112.71" font-size="1.796" text-anchor="middle">ODBORNÍK</text>
+<text class="clue" x="56.656" y="114.685" font-size="1.796" text-anchor="middle">NA STAVBU</text>
+<text class="clue" x="56.656" y="116.66" font-size="1.796" text-anchor="middle">TĚLA</text>
+<text class="clue" x="111.906" y="107.025" font-size="2.003" text-anchor="middle">ŠVÝCARSKÝ</text>
+<text class="clue" x="111.906" y="109.228" font-size="2.003" text-anchor="middle">MATEMATIK</text>
+<text class="clue" x="111.906" y="113.565" font-size="2.21" text-anchor="middle">OSOBNÍ</text>
+<text class="clue" x="111.906" y="115.996" font-size="2.21" text-anchor="middle">ZÁJMENO</text>
+<text class="clue" x="29.031" y="124.074" font-size="2.21" text-anchor="middle">ŽENSKÉ</text>
+<text class="clue" x="29.031" y="126.505" font-size="2.21" text-anchor="middle">JMÉNO</text>
+<text class="clue" x="98.094" y="120.771" font-size="2.21" text-anchor="middle">ŠKRABKA</text>
+<text class="clue" x="98.094" y="123.202" font-size="2.21" text-anchor="middle">NA PLUH</text>
+<text class="clue" x="98.094" y="126.522" font-size="1.796" text-anchor="middle">BEZBARVÝ</text>
+<text class="clue" x="98.094" y="128.497" font-size="1.796" text-anchor="middle">HOŘLAVÝ</text>
+<text class="clue" x="98.094" y="130.473" font-size="1.796" text-anchor="middle">PLYN</text>
+<text class="clue" x="167.156" y="124.074" font-size="2.21" text-anchor="middle">NEDIGI-</text>
+<text class="clue" x="167.156" y="126.505" font-size="2.21" text-anchor="middle">TÁLNÍ</text>
+<text class="clue" x="180.969" y="122.859" font-size="2.21" text-anchor="middle">KOČKOVI-</text>
+<text class="clue" x="180.969" y="125.29" font-size="2.21" text-anchor="middle">TÉ ŠELMY</text>
+<text class="clue" x="180.969" y="127.721" font-size="2.21" text-anchor="middle">(MN. Č.)</text>
+<text class="clue" x="29.031" y="136.671" font-size="2.21" text-anchor="middle">MALÉ</text>
+<text class="clue" x="29.031" y="139.102" font-size="2.21" text-anchor="middle">NAPĚTÍ</text>
+<text class="clue" x="29.031" y="141.533" font-size="2.21" text-anchor="middle">(ZKR.)</text>
+<text class="clue" x="70.469" y="134.583" font-size="2.21" text-anchor="middle" font-weight="bold">2. DÍL</text>
+<text class="clue" x="70.469" y="137.014" font-size="2.21" text-anchor="middle" font-weight="bold">TAJENKY</text>
+<text class="clue" x="70.469" y="141.19" font-size="2.21" text-anchor="middle">ČTRNÁCT</text>
+<text class="clue" x="70.469" y="143.621" font-size="2.21" text-anchor="middle">ŘÍMSKY</text>
+<text class="clue" x="125.719" y="137.887" font-size="2.21" text-anchor="middle">BEZDĚKY,</text>
+<text class="clue" x="125.719" y="140.318" font-size="2.21" text-anchor="middle">NAHODILE</text>
+<text class="clue" x="139.531" y="134.583" font-size="2.21" text-anchor="middle">KYPĚNÍ</text>
+<text class="clue" x="139.531" y="137.014" font-size="2.21" text-anchor="middle">VODY</text>
+<text class="clue" x="139.531" y="142.405" font-size="2.21" text-anchor="middle">ÚDAJNĚ</text>
+<text class="clue" x="29.031" y="150.484" font-size="2.21" text-anchor="middle">KOPIE PO</text>
+<text class="clue" x="29.031" y="152.915" font-size="2.21" text-anchor="middle">TELEFONNÍ</text>
+<text class="clue" x="29.031" y="155.346" font-size="2.21" text-anchor="middle">LINCE</text>
+<text class="clue" x="84.281" y="147.541" font-size="1.796" text-anchor="middle">SAVÉ</text>
+<text class="clue" x="84.281" y="149.516" font-size="1.796" text-anchor="middle">OBVAZY (MN.</text>
+<text class="clue" x="84.281" y="151.491" font-size="1.796" text-anchor="middle">Č.)</text>
+<text class="clue" x="84.281" y="154.147" font-size="1.796" text-anchor="middle">Z</text>
+<text class="clue" x="84.281" y="156.122" font-size="1.796" text-anchor="middle">KOUŘOVÝCH</text>
+<text class="clue" x="84.281" y="158.098" font-size="1.796" text-anchor="middle">ČÁSTIC</text>
+<text class="clue" x="42.844" y="161.353" font-size="1.796" text-anchor="middle">JEDOVATÉ</text>
+<text class="clue" x="42.844" y="163.329" font-size="1.796" text-anchor="middle">JEHLIČNANY</text>
+<text class="clue" x="42.844" y="165.304" font-size="1.796" text-anchor="middle">(MN. Č.)</text>
+<text class="clue" x="42.844" y="167.96" font-size="1.796" text-anchor="middle">SEDMNÁCTÉ</text>
+<text class="clue" x="42.844" y="169.935" font-size="1.796" text-anchor="middle">HEBR.</text>
+<text class="clue" x="42.844" y="171.91" font-size="1.796" text-anchor="middle">PÍSMENO</text>
+<text class="clue" x="111.906" y="162.275" font-size="2.003" text-anchor="middle">FRANCOUZ-</text>
+<text class="clue" x="111.906" y="164.478" font-size="2.003" text-anchor="middle">SKÉ MĚSTO</text>
+<text class="clue" x="111.906" y="168.947" font-size="1.796" text-anchor="middle">TÝKAJÍCÍ SE</text>
+<text class="clue" x="111.906" y="170.922" font-size="1.796" text-anchor="middle">VYPOUŠTĚNÍ</text>
+<text class="clue" x="29.031" y="179.324" font-size="2.21" text-anchor="middle">SRAŽENÝ K</text>
+<text class="clue" x="29.031" y="181.755" font-size="2.21" text-anchor="middle">ZEMI</text>
+<text class="clue" x="153.344" y="176.021" font-size="2.21" text-anchor="middle">POKUD</text>
+<text class="clue" x="153.344" y="178.452" font-size="2.21" text-anchor="middle">(KNIŽ.)</text>
+<text class="clue" x="153.344" y="182.627" font-size="2.21" text-anchor="middle">DOCHUCO-</text>
+<text class="clue" x="153.344" y="185.058" font-size="2.21" text-anchor="middle">VAT</text>
+<text class="clue" x="29.031" y="194.352" font-size="2.21" text-anchor="middle">HLÁSKA M</text>
+<text class="clue" x="70.469" y="189.833" font-size="2.21" text-anchor="middle" font-weight="bold">3. DÍL</text>
+<text class="clue" x="70.469" y="192.264" font-size="2.21" text-anchor="middle" font-weight="bold">TAJENKY</text>
+<text class="clue" x="70.469" y="195.585" font-size="1.796" text-anchor="middle">ANDSKÝ</text>
+<text class="clue" x="70.469" y="197.56" font-size="1.796" text-anchor="middle">VELBLOUDO-</text>
+<text class="clue" x="70.469" y="199.535" font-size="1.796" text-anchor="middle">VITÝ SAVEC</text>
+<text class="clue" x="139.531" y="188.978" font-size="1.796" text-anchor="middle">STAVEBNÍ</text>
+<text class="clue" x="139.531" y="190.954" font-size="1.796" text-anchor="middle">OBJEKT</text>
+<text class="clue" x="139.531" y="192.929" font-size="1.796" text-anchor="middle">(ZKR.)</text>
+<text class="clue" x="139.531" y="196.506" font-size="2.003" text-anchor="middle">UKAZOVACÍ</text>
+<text class="clue" x="139.531" y="198.709" font-size="2.003" text-anchor="middle">ZÁJMENO</text>
+<text class="clue" x="180.969" y="193.137" font-size="2.21" text-anchor="middle">JINAK</text>
+<text class="clue" x="180.969" y="195.568" font-size="2.21" text-anchor="middle">(KNIŽ.)</text>
+<text class="clue" x="42.844" y="205.734" font-size="2.21" text-anchor="middle">KÁVOVÁ</text>
+<text class="clue" x="42.844" y="208.165" font-size="2.21" text-anchor="middle">SEDLINA</text>
+<text class="clue" x="42.844" y="210.596" font-size="2.21" text-anchor="middle">(ZAST.)</text>
+<text class="clue" x="56.656" y="203.646" font-size="2.21" text-anchor="middle">MINULÝ</text>
+<text class="clue" x="56.656" y="206.077" font-size="2.21" text-anchor="middle">ROK</text>
+<text class="clue" x="56.656" y="210.318" font-size="2.003" text-anchor="middle">TUBERKU-</text>
+<text class="clue" x="56.656" y="212.522" font-size="2.003" text-anchor="middle">LÓZA (ZKR.)</text>
+<text class="clue" x="125.719" y="202.791" font-size="1.796" text-anchor="middle">STÁT V</text>
+<text class="clue" x="125.719" y="204.766" font-size="1.796" text-anchor="middle">ZÁPADNÍ</text>
+<text class="clue" x="125.719" y="206.741" font-size="1.796" text-anchor="middle">AFRICE</text>
+<text class="clue" x="125.719" y="210.252" font-size="2.21" text-anchor="middle">SEKAT,</text>
+<text class="clue" x="125.719" y="212.683" font-size="2.21" text-anchor="middle">RUBAT</text>
+<text class="clue" x="29.031" y="221.977" font-size="2.21" text-anchor="middle">KONDICE</text>
+<text class="clue" x="98.094" y="217.525" font-size="2.003" text-anchor="middle">VÝBĚŽEK</text>
+<text class="clue" x="98.094" y="219.728" font-size="2.003" text-anchor="middle">JAHODNÍKU</text>
+<text class="clue" x="98.094" y="224.131" font-size="2.003" text-anchor="middle">ZNAČKA</text>
+<text class="clue" x="98.094" y="226.334" font-size="2.003" text-anchor="middle">PRVKU Č. 81</text>
+<text class="clue" x="29.031" y="233.359" font-size="2.21" text-anchor="middle">LESNICKÝ,</text>
+<text class="clue" x="29.031" y="235.79" font-size="2.21" text-anchor="middle">O DOBĚ</text>
+<text class="clue" x="29.031" y="238.221" font-size="2.21" text-anchor="middle">SMÝCENÍ</text>
+<text class="clue" x="139.531" y="233.359" font-size="2.21" text-anchor="middle">KRÁTKÉ</text>
+<text class="clue" x="139.531" y="235.79" font-size="2.21" text-anchor="middle">ŽENSKÉ</text>
+<text class="clue" x="139.531" y="238.221" font-size="2.21" text-anchor="middle">JMÉNO</text>
+<text class="clue" x="29.031" y="248.387" font-size="2.21" text-anchor="middle">PŘIBLIŽNĚ</text>
+<text class="clue" x="29.031" y="250.818" font-size="2.21" text-anchor="middle">(ZKR.)</text>
+<text class="clue" x="84.281" y="249.602" font-size="2.21" text-anchor="middle">NALÉVAT</text>
+<text class="clue" x="139.531" y="247.171" font-size="2.21" text-anchor="middle">ASIJSKÝ</text>
+<text class="clue" x="139.531" y="249.602" font-size="2.21" text-anchor="middle">TROPICKÝ</text>
+<text class="clue" x="139.531" y="252.033" font-size="2.21" text-anchor="middle">STROM</text>
+<rect class="border" x="22.125" y="35" width="165.75" height="221" fill="none" stroke="#000000" stroke-width="0.8"/>
+<text class="pomucka" x="22.125" y="261" font-size="3.2" text-anchor="start" font-weight="bold">Pomůcka:</text>
+<text class="pomucka" x="40.711" y="261" font-size="3.2" text-anchor="start">ÍHÁ, OBMÝTNÍ, OTKA, PE, SOC, TET.</text>
+<rect class="tajenka-box" x="59" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="62" y="272.575" font-size="4.5" text-anchor="middle">S</text>
+<rect class="tajenka-box" x="65" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="68" y="272.575" font-size="4.5" text-anchor="middle">L</text>
+<rect class="tajenka-box" x="71" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="74" y="272.575" font-size="4.5" text-anchor="middle">A</text>
+<rect class="tajenka-box" x="77" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="80" y="272.575" font-size="4.5" text-anchor="middle">V</text>
+<rect class="tajenka-box" x="83" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="86" y="272.575" font-size="4.5" text-anchor="middle">Í</text>
+<rect class="tajenka-box" x="89" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="92" y="272.575" font-size="4.5" text-anchor="middle">M</text>
+<rect class="tajenka-box" x="95" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="98" y="272.575" font-size="4.5" text-anchor="middle">E</text>
+<rect class="tajenka-box" x="105" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="108" y="272.575" font-size="4.5" text-anchor="middle">D</text>
+<rect class="tajenka-box" x="111" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="114" y="272.575" font-size="4.5" text-anchor="middle">E</text>
+<rect class="tajenka-box" x="117" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="120" y="272.575" font-size="4.5" text-anchor="middle">N</text>
+<rect class="tajenka-box" x="127" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="130" y="272.575" font-size="4.5" text-anchor="middle">Z</text>
+<rect class="tajenka-box" x="133" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="136" y="272.575" font-size="4.5" text-anchor="middle">E</text>
+<rect class="tajenka-box" x="139" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="142" y="272.575" font-size="4.5" text-anchor="middle">M</text>
+<rect class="tajenka-box" x="145" y="268" width="6" height="6" fill="#ffffff" stroke="#000000" stroke-width="0.6"/>
+<text class="box-letter" x="148" y="272.575" font-size="4.5" text-anchor="middle">Ě</text>
+</svg>

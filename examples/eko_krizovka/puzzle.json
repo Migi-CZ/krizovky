@@ -1,0 +1,1920 @@
+{
+ "mode": "swedish",
+ "width": 12,
+ "height": 16,
+ "match": "strict",
+ "ch_one_cell": true,
+ "entries": [
+  {
+   "answer": "PRSK",
+   "cells": [
+    "P",
+    "R",
+    "S",
+    "K"
+   ],
+   "clue": "Citoslovce syčení kočky",
+   "pos": "intj"
+  },
+  {
+   "answer": "OSTROV",
+   "cells": [
+    "O",
+    "S",
+    "T",
+    "R",
+    "O",
+    "V"
+   ],
+   "clue": "Země obklopená vodou",
+   "pos": "noun"
+  },
+  {
+   "answer": "ROVY",
+   "cells": [
+    "R",
+    "O",
+    "V",
+    "Y"
+   ],
+   "clue": "Hroby (kniž.)",
+   "pos": "noun"
+  },
+  {
+   "answer": "SKELNÝ",
+   "cells": [
+    "S",
+    "K",
+    "E",
+    "L",
+    "N",
+    "Ý"
+   ],
+   "clue": "Strnulý (o pohledu)",
+   "pos": "adj"
+  },
+  {
+   "answer": "SLAVÍME",
+   "cells": [
+    "S",
+    "L",
+    "A",
+    "V",
+    "Í",
+    "M",
+    "E"
+   ],
+   "clue": "1. díl tajenky",
+   "pos": null
+  },
+  {
+   "answer": "PUB",
+   "cells": [
+    "P",
+    "U",
+    "B"
+   ],
+   "clue": "Anglická hospoda",
+   "pos": ""
+  },
+  {
+   "answer": "TET",
+   "cells": [
+    "T",
+    "E",
+    "T"
+   ],
+   "clue": "Deváté hebrejské písmeno",
+   "pos": "noun"
+  },
+  {
+   "answer": "HALT",
+   "cells": [
+    "H",
+    "A",
+    "L",
+    "T"
+   ],
+   "clue": "Stůj! (něm.)",
+   "pos": "intj"
+  },
+  {
+   "answer": "CO",
+   "cells": [
+    "C",
+    "O"
+   ],
+   "clue": "Tázací zájmeno",
+   "pos": "pron"
+  },
+  {
+   "answer": "BLÁ",
+   "cells": [
+    "B",
+    "L",
+    "Á"
+   ],
+   "clue": "Citoslovce žvanění",
+   "pos": "intj"
+  },
+  {
+   "answer": "EULER",
+   "cells": [
+    "E",
+    "U",
+    "L",
+    "E",
+    "R"
+   ],
+   "clue": "Švýcarský matematik",
+   "pos": "name"
+  },
+  {
+   "answer": "MAYA",
+   "cells": [
+    "M",
+    "A",
+    "Y",
+    "A"
+   ],
+   "clue": "Ženské jméno",
+   "pos": "noun"
+  },
+  {
+   "answer": "OTKA",
+   "cells": [
+    "O",
+    "T",
+    "K",
+    "A"
+   ],
+   "clue": "Škrabka na pluh",
+   "pos": "noun"
+  },
+  {
+   "answer": "MN",
+   "cells": [
+    "M",
+    "N"
+   ],
+   "clue": "Malé napětí (zkr.)",
+   "pos": "abbrev"
+  },
+  {
+   "answer": "DEN",
+   "cells": [
+    "D",
+    "E",
+    "N"
+   ],
+   "clue": "2. díl tajenky",
+   "pos": null
+  },
+  {
+   "answer": "VAR",
+   "cells": [
+    "V",
+    "A",
+    "R"
+   ],
+   "clue": "Kypění vody",
+   "pos": "noun"
+  },
+  {
+   "answer": "FAX",
+   "cells": [
+    "F",
+    "A",
+    "X"
+   ],
+   "clue": "Kopie po telefonní lince",
+   "pos": "noun"
+  },
+  {
+   "answer": "TAMPÓNY",
+   "cells": [
+    "T",
+    "A",
+    "M",
+    "P",
+    "Ó",
+    "N",
+    "Y"
+   ],
+   "clue": "Savé obvazy (mn. č.)",
+   "pos": "noun"
+  },
+  {
+   "answer": "TISY",
+   "cells": [
+    "T",
+    "I",
+    "S",
+    "Y"
+   ],
+   "clue": "Jedovaté jehličnany (mn. č.)",
+   "pos": "noun"
+  },
+  {
+   "answer": "ARRAS",
+   "cells": [
+    "A",
+    "R",
+    "R",
+    "A",
+    "S"
+   ],
+   "clue": "Francouzské město",
+   "pos": "noun"
+  },
+  {
+   "answer": "POVALENÝ",
+   "cells": [
+    "P",
+    "O",
+    "V",
+    "A",
+    "L",
+    "E",
+    "N",
+    "Ý"
+   ],
+   "clue": "Sražený k zemi",
+   "pos": ""
+  },
+  {
+   "answer": "LI",
+   "cells": [
+    "L",
+    "I"
+   ],
+   "clue": "Pokud (kniž.)",
+   "pos": ""
+  },
+  {
+   "answer": "EM",
+   "cells": [
+    "E",
+    "M"
+   ],
+   "clue": "Hláska M",
+   "pos": "noun"
+  },
+  {
+   "answer": "ZEMĚ",
+   "cells": [
+    "Z",
+    "E",
+    "M",
+    "Ě"
+   ],
+   "clue": "3. díl tajenky",
+   "pos": null
+  },
+  {
+   "answer": "SO",
+   "cells": [
+    "S",
+    "O"
+   ],
+   "clue": "Stavební objekt (zkr.)",
+   "pos": "abbrev"
+  },
+  {
+   "answer": "LONI",
+   "cells": [
+    "L",
+    "O",
+    "N",
+    "I"
+   ],
+   "clue": "Minulý rok",
+   "pos": "adv"
+  },
+  {
+   "answer": "TOGO",
+   "cells": [
+    "T",
+    "O",
+    "G",
+    "O"
+   ],
+   "clue": "Stát v západní Africe",
+   "pos": "noun"
+  },
+  {
+   "answer": "STAV",
+   "cells": [
+    "S",
+    "T",
+    "A",
+    "V"
+   ],
+   "clue": "Kondice",
+   "pos": "noun"
+  },
+  {
+   "answer": "STOLON",
+   "cells": [
+    "S",
+    "T",
+    "O",
+    "L",
+    "O",
+    "N"
+   ],
+   "clue": "Výběžek jahodníku",
+   "pos": ""
+  },
+  {
+   "answer": "OBMÝTNÍ",
+   "cells": [
+    "O",
+    "B",
+    "M",
+    "Ý",
+    "T",
+    "N",
+    "Í"
+   ],
+   "clue": "Lesnický, o době smýcení",
+   "pos": ""
+  },
+  {
+   "answer": "IVA",
+   "cells": [
+    "I",
+    "V",
+    "A"
+   ],
+   "clue": "Krátké ženské jméno",
+   "pos": "noun"
+  },
+  {
+   "answer": "CCA",
+   "cells": [
+    "C",
+    "C",
+    "A"
+   ],
+   "clue": "Přibližně (zkr.)",
+   "pos": "abbrev"
+  },
+  {
+   "answer": "LÍT",
+   "cells": [
+    "L",
+    "Í",
+    "T"
+   ],
+   "clue": "Nalévat",
+   "pos": "verb"
+  },
+  {
+   "answer": "TÝK",
+   "cells": [
+    "T",
+    "Ý",
+    "K"
+   ],
+   "clue": "Asijský tropický strom",
+   "pos": "noun"
+  },
+  {
+   "answer": "PRST",
+   "cells": [
+    "P",
+    "R",
+    "S",
+    "T"
+   ],
+   "clue": "Část ruky",
+   "pos": "noun"
+  },
+  {
+   "answer": "MMF",
+   "cells": [
+    "M",
+    "M",
+    "F"
+   ],
+   "clue": "Měnový fond (zkr.)",
+   "pos": "abbrev"
+  },
+  {
+   "answer": "PE",
+   "cells": [
+    "P",
+    "E"
+   ],
+   "clue": "Sedmnácté hebr. písmeno",
+   "pos": "noun"
+  },
+  {
+   "answer": "SOC",
+   "cells": [
+    "S",
+    "O",
+    "C"
+   ],
+   "clue": "Kávová sedlina (zast.)",
+   "pos": "noun"
+  },
+  {
+   "answer": "ROLE",
+   "cells": [
+    "R",
+    "O",
+    "L",
+    "E"
+   ],
+   "clue": "Úloha herce",
+   "pos": "noun"
+  },
+  {
+   "answer": "ANATOM",
+   "cells": [
+    "A",
+    "N",
+    "A",
+    "T",
+    "O",
+    "M"
+   ],
+   "clue": "Odborník na stavbu těla",
+   "pos": "noun"
+  },
+  {
+   "answer": "TBC",
+   "cells": [
+    "T",
+    "B",
+    "C"
+   ],
+   "clue": "Tuberkulóza (zkr.)",
+   "pos": "abbrev"
+  },
+  {
+   "answer": "SVATBY",
+   "cells": [
+    "S",
+    "V",
+    "A",
+    "T",
+    "B",
+    "Y"
+   ],
+   "clue": "Sňatky",
+   "pos": "noun"
+  },
+  {
+   "answer": "XIV",
+   "cells": [
+    "X",
+    "I",
+    "V"
+   ],
+   "clue": "Čtrnáct římsky",
+   "pos": "num"
+  },
+  {
+   "answer": "LAMA",
+   "cells": [
+    "L",
+    "A",
+    "M",
+    "A"
+   ],
+   "clue": "Andský velbloudovitý savec",
+   "pos": "noun"
+  },
+  {
+   "answer": "KYV",
+   "cells": [
+    "K",
+    "Y",
+    "V"
+   ],
+   "clue": "Kmitavý pohyb",
+   "pos": "noun"
+  },
+  {
+   "answer": "LAD",
+   "cells": [
+    "L",
+    "A",
+    "D"
+   ],
+   "clue": "Pořádek, harmonie",
+   "pos": "noun"
+  },
+  {
+   "answer": "SAZOVÝ",
+   "cells": [
+    "S",
+    "A",
+    "Z",
+    "O",
+    "V",
+    "Ý"
+   ],
+   "clue": "Z kouřových částic",
+   "pos": "adj"
+  },
+  {
+   "answer": "ÍHÁ",
+   "cells": [
+    "Í",
+    "H",
+    "Á"
+   ],
+   "clue": "Hlas osla",
+   "pos": "intj"
+  },
+  {
+   "answer": "ETYLEN",
+   "cells": [
+    "E",
+    "T",
+    "Y",
+    "L",
+    "E",
+    "N"
+   ],
+   "clue": "Bezbarvý hořlavý plyn",
+   "pos": "noun"
+  },
+  {
+   "answer": "TL",
+   "cells": [
+    "T",
+    "L"
+   ],
+   "clue": "Značka prvku č. 81",
+   "pos": "symbol"
+  },
+  {
+   "answer": "OSMA",
+   "cells": [
+    "O",
+    "S",
+    "M",
+    "A"
+   ],
+   "clue": "Číslice 8",
+   "pos": "noun"
+  },
+  {
+   "answer": "ONA",
+   "cells": [
+    "O",
+    "N",
+    "A"
+   ],
+   "clue": "Osobní zájmeno",
+   "pos": "pron"
+  },
+  {
+   "answer": "EMISNÍ",
+   "cells": [
+    "E",
+    "M",
+    "I",
+    "S",
+    "N",
+    "Í"
+   ],
+   "clue": "Týkající se vypouštění",
+   "pos": "adj"
+  },
+  {
+   "answer": "SKELET",
+   "cells": [
+    "S",
+    "K",
+    "E",
+    "L",
+    "E",
+    "T"
+   ],
+   "clue": "Kostra",
+   "pos": ""
+  },
+  {
+   "answer": "MANĚ",
+   "cells": [
+    "M",
+    "A",
+    "N",
+    "Ě"
+   ],
+   "clue": "Bezděky, nahodile",
+   "pos": "adv"
+  },
+  {
+   "answer": "TÍT",
+   "cells": [
+    "T",
+    "Í",
+    "T"
+   ],
+   "clue": "Sekat, rubat",
+   "pos": "verb"
+  },
+  {
+   "answer": "TE",
+   "cells": [
+    "T",
+    "E"
+   ],
+   "clue": "Značka prvku č. 52",
+   "pos": "symbol"
+  },
+  {
+   "answer": "TUK",
+   "cells": [
+    "T",
+    "U",
+    "K"
+   ],
+   "clue": "Mastnota",
+   "pos": "noun"
+  },
+  {
+   "answer": "PRÝ",
+   "cells": [
+    "P",
+    "R",
+    "Ý"
+   ],
+   "clue": "Údajně",
+   "pos": "particle"
+  },
+  {
+   "answer": "TO",
+   "cells": [
+    "T",
+    "O"
+   ],
+   "clue": "Ukazovací zájmeno",
+   "pos": "particle"
+  },
+  {
+   "answer": "RLP",
+   "cells": [
+    "R",
+    "L",
+    "P"
+   ],
+   "clue": "Rychlá lék. pomoc (zkr.)",
+   "pos": "abbrev"
+  },
+  {
+   "answer": "LAVÓR",
+   "cells": [
+    "L",
+    "A",
+    "V",
+    "Ó",
+    "R"
+   ],
+   "clue": "Umyvadlo",
+   "pos": ""
+  },
+  {
+   "answer": "SOLIT",
+   "cells": [
+    "S",
+    "O",
+    "L",
+    "I",
+    "T"
+   ],
+   "clue": "Dochucovat",
+   "pos": "verb"
+  },
+  {
+   "answer": "ONUCE",
+   "cells": [
+    "O",
+    "N",
+    "U",
+    "C",
+    "E"
+   ],
+   "clue": "Předchůdce ponožky",
+   "pos": "noun"
+  },
+  {
+   "answer": "ANALOGOVÝ",
+   "cells": [
+    "A",
+    "N",
+    "A",
+    "L",
+    "O",
+    "G",
+    "O",
+    "V",
+    "Ý"
+   ],
+   "clue": "Nedigitální",
+   "pos": "adj"
+  },
+  {
+   "answer": "VÝBOR",
+   "cells": [
+    "V",
+    "Ý",
+    "B",
+    "O",
+    "R"
+   ],
+   "clue": "Komise, rada",
+   "pos": "noun"
+  },
+  {
+   "answer": "RYSI",
+   "cells": [
+    "R",
+    "Y",
+    "S",
+    "I"
+   ],
+   "clue": "Kočkovité šelmy (mn. č.)",
+   "pos": "noun"
+  },
+  {
+   "answer": "ONAK",
+   "cells": [
+    "O",
+    "N",
+    "A",
+    "K"
+   ],
+   "clue": "Jinak (kniž.)",
+   "pos": ""
+  }
+ ],
+ "placements": [
+  {
+   "row": 1,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 6,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 2,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 2,
+   "col": 6,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 3,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 3,
+   "col": 9,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 4,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 4,
+   "col": 5,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 4,
+   "col": 10,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 5,
+   "col": 3,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 5,
+   "col": 7,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 6,
+   "col": 6,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 7,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 7,
+   "col": 4,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 7,
+   "col": 9,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 8,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 8,
+   "col": 5,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 9,
+   "col": 2,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 9,
+   "col": 7,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 10,
+   "col": 10,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 11,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 11,
+   "col": 4,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 11,
+   "col": 9,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 12,
+   "col": 3,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 12,
+   "col": 8,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 13,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 13,
+   "col": 6,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 14,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 14,
+   "col": 9,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 15,
+   "col": 1,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 15,
+   "col": 5,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 15,
+   "col": 9,
+   "direction": "across",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 1,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 6,
+   "col": 1,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 10,
+   "col": 1,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 13,
+   "col": 1,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 2,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 6,
+   "col": 2,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 13,
+   "col": 2,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 3,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 8,
+   "col": 3,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 12,
+   "col": 3,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 4,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 5,
+   "col": 4,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 9,
+   "col": 4,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 3,
+   "col": 5,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 7,
+   "col": 5,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 14,
+   "col": 5,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 6,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 6,
+   "col": 6,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 10,
+   "col": 6,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 7,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 8,
+   "col": 7,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 13,
+   "col": 7,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 8,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 4,
+   "col": 8,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 8,
+   "col": 8,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 12,
+   "col": 8,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 9,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 5,
+   "col": 9,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 11,
+   "col": 9,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 10,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 7,
+   "col": 10,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 1,
+   "col": 11,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 7,
+   "col": 11,
+   "direction": "down",
+   "number": null
+  },
+  {
+   "row": 12,
+   "col": 11,
+   "direction": "down",
+   "number": null
+  }
+ ],
+ "tajenka": "SLAVÍME / DEN / ZEMĚ",
+ "tajenka_cells": [
+  [
+   3,
+   1
+  ],
+  [
+   3,
+   2
+  ],
+  [
+   3,
+   3
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   3,
+   5
+  ],
+  [
+   3,
+   6
+  ],
+  [
+   3,
+   7
+  ],
+  [
+   7,
+   4
+  ],
+  [
+   7,
+   5
+  ],
+  [
+   7,
+   6
+  ],
+  [
+   11,
+   4
+  ],
+  [
+   11,
+   5
+  ],
+  [
+   11,
+   6
+  ],
+  [
+   11,
+   7
+  ]
+ ],
+ "blocks": [
+  [
+   0,
+   0
+  ],
+  [
+   0,
+   1
+  ],
+  [
+   0,
+   2
+  ],
+  [
+   0,
+   3
+  ],
+  [
+   0,
+   4
+  ],
+  [
+   0,
+   5
+  ],
+  [
+   0,
+   6
+  ],
+  [
+   0,
+   7
+  ],
+  [
+   0,
+   8
+  ],
+  [
+   0,
+   9
+  ],
+  [
+   0,
+   10
+  ],
+  [
+   0,
+   11
+  ],
+  [
+   1,
+   0
+  ],
+  [
+   1,
+   5
+  ],
+  [
+   2,
+   0
+  ],
+  [
+   2,
+   5
+  ],
+  [
+   3,
+   0
+  ],
+  [
+   3,
+   8
+  ],
+  [
+   4,
+   0
+  ],
+  [
+   4,
+   4
+  ],
+  [
+   4,
+   9
+  ],
+  [
+   5,
+   0
+  ],
+  [
+   5,
+   1
+  ],
+  [
+   5,
+   2
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   6,
+   0
+  ],
+  [
+   6,
+   5
+  ],
+  [
+   6,
+   10
+  ],
+  [
+   6,
+   11
+  ],
+  [
+   7,
+   0
+  ],
+  [
+   7,
+   3
+  ],
+  [
+   7,
+   7
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   8,
+   0
+  ],
+  [
+   8,
+   4
+  ],
+  [
+   9,
+   0
+  ],
+  [
+   9,
+   1
+  ],
+  [
+   9,
+   6
+  ],
+  [
+   10,
+   0
+  ],
+  [
+   10,
+   9
+  ],
+  [
+   11,
+   0
+  ],
+  [
+   11,
+   3
+  ],
+  [
+   11,
+   8
+  ],
+  [
+   11,
+   11
+  ],
+  [
+   12,
+   0
+  ],
+  [
+   12,
+   1
+  ],
+  [
+   12,
+   2
+  ],
+  [
+   12,
+   7
+  ],
+  [
+   13,
+   0
+  ],
+  [
+   13,
+   5
+  ],
+  [
+   14,
+   0
+  ],
+  [
+   14,
+   8
+  ],
+  [
+   15,
+   0
+  ],
+  [
+   15,
+   4
+  ],
+  [
+   15,
+   8
+  ]
+ ],
+ "dropped": [],
+ "meta": {
+  "nodes": 113,
+  "block_share": 0.2865,
+  "inner_share": 0.1697,
+  "repairs": 3,
+  "kept": 0,
+  "dictionary": {
+   "PRSK": {
+    "gloss": "vyjadřuje prsknutí; užito vícečetně pak vyjadřuje prskání",
+    "form": "",
+    "flags": [],
+    "freq": 0
+   },
+   "OSTROV": {
+    "gloss": "část pevniny ze všech stran obklopená vodou",
+    "form": "",
+    "flags": [],
+    "freq": 2662
+   },
+   "ROVY": {
+    "gloss": "hrob; pahrbek (většinou hlíny) navršený nad hrobem (mn. č.)",
+    "form": "accusative instrumental nominative plural vocative",
+    "flags": [
+     "kniž."
+    ],
+    "freq": 0
+   },
+   "SKELNÝ": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "en-wikt"
+    ],
+    "freq": 65445
+   },
+   "PUB": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 93827
+   },
+   "TET": {
+    "gloss": "písmeno hebrejské abecedy",
+    "form": "",
+    "flags": [],
+    "freq": 0
+   },
+   "HALT": {
+    "gloss": "stát!, stůj!",
+    "form": "",
+    "flags": [],
+    "freq": 158320
+   },
+   "CO": {
+    "gloss": "zájmeno v otázkách týkajících se věcí, jevů a zvířat",
+    "form": "",
+    "flags": [],
+    "freq": 8
+   },
+   "BLÁ": {
+    "gloss": "nápodoba blábolení",
+    "form": "alternative",
+    "flags": [],
+    "freq": 42336
+   },
+   "EULER": {
+    "gloss": "Leonhard Euler, švýcarský matematik",
+    "form": "",
+    "flags": [
+     "vl."
+    ],
+    "freq": 0
+   },
+   "MAYA": {
+    "gloss": "ženské křestní jméno",
+    "form": "alternative",
+    "flags": [],
+    "freq": 11302
+   },
+   "OTKA": {
+    "gloss": "nástroj na seškrabávání hlíny z pluhu",
+    "form": "",
+    "flags": [],
+    "freq": 77226
+   },
+   "MN": {
+    "gloss": "malé napětí",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 88716
+   },
+   "VAR": {
+    "gloss": "stav překotné přeměny kapaliny v páru",
+    "form": "",
+    "flags": [],
+    "freq": 58642
+   },
+   "FAX": {
+    "gloss": "kopie dopisu apod., která se pomocí speciálního přístroje posílala po telefonní lince",
+    "form": "",
+    "flags": [],
+    "freq": 18981
+   },
+   "TAMPÓNY": {
+    "gloss": "kus savého materiálu určeného k absorpci tekutin (ve zdravotnictví) (mn. č.)",
+    "form": "accusative instrumental nominative plural vocative",
+    "flags": [],
+    "freq": 32161
+   },
+   "TISY": {
+    "gloss": "jehličnatý strom nebo keř z čeledi tisovitých (mn. č.)",
+    "form": "accusative instrumental nominative plural vocative",
+    "flags": [],
+    "freq": 0
+   },
+   "ARRAS": {
+    "gloss": "město ve Francii",
+    "form": "",
+    "flags": [
+     "vl."
+    ],
+    "freq": 0
+   },
+   "POVALENÝ": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 102011
+   },
+   "LI": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 6139
+   },
+   "EM": {
+    "gloss": "název hlásky a písmene M / m",
+    "form": "",
+    "flags": [],
+    "freq": 5362
+   },
+   "SO": {
+    "gloss": "stavební objekt",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 4252
+   },
+   "LONI": {
+    "gloss": "v minulém roce",
+    "form": "",
+    "flags": [],
+    "freq": 3655
+   },
+   "TOGO": {
+    "gloss": "stát v západní Africe ležící na Zlatonosném pobřeží",
+    "form": "",
+    "flags": [
+     "vl."
+    ],
+    "freq": 0
+   },
+   "STAV": {
+    "gloss": "vlastnosti charakterizující něco nebo někoho v nějaké době, situaci",
+    "form": "",
+    "flags": [],
+    "freq": 2161
+   },
+   "STOLON": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 124245
+   },
+   "OBMÝTNÍ": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 122703
+   },
+   "IVA": {
+    "gloss": "ženské křestní jméno",
+    "form": "",
+    "flags": [
+     "vl."
+    ],
+    "freq": 172961
+   },
+   "CCA": {
+    "gloss": "cirka",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 38340
+   },
+   "LÍT": {
+    "gloss": "vpouštět nebo vypouštět kapalinu",
+    "form": "",
+    "flags": [],
+    "freq": 58488
+   },
+   "TÝK": {
+    "gloss": "asijský tropický strom",
+    "form": "",
+    "flags": [],
+    "freq": 101663
+   },
+   "PRST": {
+    "gloss": "jeden z pěti pohyblivých útvarů ukončujících dlaň ruky",
+    "form": "",
+    "flags": [],
+    "freq": 3700
+   },
+   "MMF": {
+    "gloss": "Mezinárodní měnový fond",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 0
+   },
+   "PE": {
+    "gloss": "písmeno פ v hebrejské abecedě",
+    "form": "",
+    "flags": [],
+    "freq": 134655
+   },
+   "SOC": {
+    "gloss": "kávová sedlina",
+    "form": "",
+    "flags": [
+     "zast."
+    ],
+    "freq": 65362
+   },
+   "ROLE": {
+    "gloss": "sled akcí které má provést herec v divadelním nebo filmovém představení",
+    "form": "",
+    "flags": [],
+    "freq": 4341
+   },
+   "ANATOM": {
+    "gloss": "člověk zabývající se anatomií, ať už jako student, lektor, nebo praktikující lékař",
+    "form": "",
+    "flags": [],
+    "freq": 93027
+   },
+   "TBC": {
+    "gloss": "tuberkulóza",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 0
+   },
+   "SVATBY": {
+    "gloss": "obřad, při kterém vzniká manželství",
+    "form": "accusative genitive nominative plural singular vocative",
+    "flags": [],
+    "freq": 4270
+   },
+   "XIV": {
+    "gloss": "římsky 14",
+    "form": "",
+    "flags": [],
+    "freq": 0
+   },
+   "LAMA": {
+    "gloss": "zvíře, zástupce rodu Lama nebo Vicugna z čeledi velbloudovití",
+    "form": "",
+    "flags": [],
+    "freq": 35807
+   },
+   "KYV": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "en-wikt"
+    ],
+    "freq": 112905
+   },
+   "LAD": {
+    "gloss": "pořádek, harmonie",
+    "form": "",
+    "flags": [],
+    "freq": 79559
+   },
+   "SAZOVÝ": {
+    "gloss": "související se sazemi",
+    "form": "",
+    "flags": [],
+    "freq": 0
+   },
+   "ÍHÁ": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "en-wikt"
+    ],
+    "freq": 0
+   },
+   "ETYLEN": {
+    "gloss": "chemická sloučenina ze skupiny alkenů, bezbarvý hořlavý plyn",
+    "form": "",
+    "flags": [],
+    "freq": 122319
+   },
+   "TL": {
+    "gloss": "chem. zn. thallia",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 0
+   },
+   "OSMA": {
+    "gloss": "osmička",
+    "form": "",
+    "flags": [],
+    "freq": 63090
+   },
+   "ONA": {
+    "gloss": "označuje osobu nebo věc ženského rodu, která vyplývá ze souvislostí",
+    "form": "",
+    "flags": [],
+    "freq": 210
+   },
+   "EMISNÍ": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "en-wikt"
+    ],
+    "freq": 59343
+   },
+   "SKELET": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 65027
+   },
+   "MANĚ": {
+    "gloss": "bez úmyslu provést příslušnou akci, jen tak, nahodile",
+    "form": "",
+    "flags": [],
+    "freq": 98448
+   },
+   "TÍT": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "en-wikt"
+    ],
+    "freq": 0
+   },
+   "TE": {
+    "gloss": "chem. zn. teluru",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 0
+   },
+   "TUK": {
+    "gloss": "mastná organická látka",
+    "form": "",
+    "flags": [],
+    "freq": 14166
+   },
+   "PRÝ": {
+    "gloss": "označuje nejisté přejaté sdělení",
+    "form": "",
+    "flags": [],
+    "freq": 941
+   },
+   "TO": {
+    "gloss": "naproti tomu, ve srovnání s dříve řečeným (stejný tvar „to“ pro všechny tři rody)",
+    "form": "",
+    "flags": [],
+    "freq": 1
+   },
+   "RLP": {
+    "gloss": "rychlá lékařská pomoc",
+    "form": "",
+    "flags": [
+     "zkr."
+    ],
+    "freq": 0
+   },
+   "LAVÓR": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 80608
+   },
+   "SOLIT": {
+    "gloss": "ochucovat jídlo kuchyňskou solí",
+    "form": "",
+    "flags": [],
+    "freq": 81988
+   },
+   "ONUCE": {
+    "gloss": "pruh látky k ovinutí chodidel do obuvi",
+    "form": "",
+    "flags": [],
+    "freq": 102461
+   },
+   "ANALOGOVÝ": {
+    "gloss": "mechanický (např. analogové hodiny)",
+    "form": "",
+    "flags": [],
+    "freq": 59894
+   },
+   "VÝBOR": {
+    "gloss": "malá skupina osob pověřených spravováním záležitostí určitého sdružení",
+    "form": "",
+    "flags": [],
+    "freq": 8862
+   },
+   "RYSI": {
+    "gloss": "rod velkých kočkovitých šelem se svazky srsti na uších (mn. č.)",
+    "form": "nominative plural vocative",
+    "flags": [],
+    "freq": 0
+   },
+   "ONAK": {
+    "gloss": "",
+    "form": "",
+    "flags": [
+     "syn"
+    ],
+    "freq": 12407
+   }
+  },
+  "restarts": 3,
+  "nodes_total": 60116,
+  "seed": 2,
+  "names": true,
+  "timeout": 180,
+  "theme": "Ochrana životního prostředí",
+  "title": "Eko křížovka",
+  "pomucka": [
+   "ÍHÁ",
+   "OBMÝTNÍ",
+   "OTKA",
+   "PE",
+   "SOC",
+   "TET"
+  ]
+ },
+ "version": 1
+}

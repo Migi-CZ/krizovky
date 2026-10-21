@@ -1,0 +1,336 @@
+word	lemma	pos	form	gloss	syn	freq	flags
+tir	tir	abbrev		mezinárodní silniční nákladní doprava (zkr.)		0	zkr.
+oas	oas	abbrev		Organizace amerických států (zkr.)		0	zkr.
+ČVUT	ČVUT	abbrev		České vysoké učení technické v Praze (zkr.)		0	zkr.
+KSČM	KSČM	abbrev		Komunistická strana Čech a Moravy (zkr.)		0	zkr.
+KLDR	KLDR	abbrev		Korejská lidově demokratická republika (zkr.)		0	zkr.
+FAMU	FAMU	abbrev		filmová fakulta pražské AMU (zkr.)		0	zkr.
+DAMU	DAMU	abbrev		divadelní fakulta pražské AMU (zkr.)		0	zkr.
+HAMU	HAMU	abbrev		hudební a taneční fakulta pražské AMU (zkr.)		0	zkr.
+JAMU	JAMU	abbrev		Janáčkova akademie múzických umění v Brně (zkr.)		0	zkr.
+ČSSD	ČSSD	abbrev		Česká strana sociálně demokratická (zkr.)		0	zkr.
+ČSOB	ČSOB	abbrev		Československá obchodní banka (zkr.)		0	zkr.
+BOZP	BOZP	abbrev		bezpečnost a ochrana zdraví při práci (zkr.)		0	zkr.
+HDMI	HDMI	abbrev		digitální rozhraní pro obraz a zvuk (zkr.)		0	zkr.
+LGBT	LGBT	abbrev		lesby, gayové, bisexuálové a translidé (zkr.)		0	zkr.
+OSVČ	OSVČ	abbrev		osoba samostatně výdělečně činná (zkr.)		0	zkr.
+MŠMT	MŠMT	abbrev		ministerstvo školství, mládeže a tělovýchovy (zkr.)		0	zkr.
+ČSSR	ČSSR	abbrev		Československá socialistická republika (zkr.)		0	zkr.
+Ohře	Ohře	noun		řeka v západních Čechách, přítok Labe		0	vl.
+BE	BE	symbol		bývalá SPZ okresu Beroun		0	zkr.
+BN	BN	symbol		bývalá SPZ okresu Benešov		0	zkr.
+KD	KD	symbol		bývalá SPZ okresu Kladno		0	zkr.
+KH	KH	symbol		bývalá SPZ okresu Kutná Hora		0	zkr.
+ME	ME	symbol		bývalá SPZ okresu Mělník		0	zkr.
+MB	MB	symbol		bývalá SPZ okresu Mladá Boleslav		0	zkr.
+NB	NB	symbol		bývalá SPZ okresu Nymburk		0	zkr.
+PB	PB	symbol		bývalá SPZ okresu Příbram		0	zkr.
+PZ	PZ	symbol		bývalá SPZ okresu Praha-západ		0	zkr.
+RA	RA	symbol		bývalá SPZ okresu Rakovník		0	zkr.
+CB	CB	symbol		bývalá SPZ okresu České Budějovice		0	zkr.
+CK	CK	symbol		bývalá SPZ okresu Český Krumlov		0	zkr.
+JH	JH	symbol		bývalá SPZ okresu Jindřichův Hradec		0	zkr.
+PE	PE	symbol		bývalá SPZ okresu Pelhřimov		0	zkr.
+PI	PI	symbol		bývalá SPZ okresu Písek		0	zkr.
+PT	PT	symbol		bývalá SPZ okresu Prachatice		0	zkr.
+ST	ST	symbol		bývalá SPZ okresu Strakonice		0	zkr.
+TA	TA	symbol		bývalá SPZ okresu Tábor		0	zkr.
+DO	DO	symbol		bývalá SPZ okresu Domažlice		0	zkr.
+KV	KV	symbol		bývalá SPZ okresu Karlovy Vary		0	zkr.
+KT	KT	symbol		bývalá SPZ okresu Klatovy		0	zkr.
+PS	PS	symbol		bývalá SPZ okresu Plzeň-sever		0	zkr.
+PJ	PJ	symbol		bývalá SPZ okresu Plzeň-jih		0	zkr.
+PM	PM	symbol		bývalá SPZ okresu Plzeň-město		0	zkr.
+RO	RO	symbol		bývalá SPZ okresu Rokycany		0	zkr.
+SO	SO	symbol		bývalá SPZ okresu Sokolov		0	zkr.
+TC	TC	symbol		bývalá SPZ okresu Tachov		0	zkr.
+CL	CL	symbol		bývalá SPZ okresu Česká Lípa		0	zkr.
+DC	DC	symbol		bývalá SPZ okresu Děčín		0	zkr.
+CV	CV	symbol		bývalá SPZ okresu Chomutov		0	zkr.
+JN	JN	symbol		bývalá SPZ okresu Jablonec nad Nisou		0	zkr.
+LT	LT	symbol		bývalá SPZ okresu Litoměřice		0	zkr.
+TP	TP	symbol		bývalá SPZ okresu Teplice		0	zkr.
+UL	UL	symbol		bývalá SPZ okresu Ústí nad Labem		0	zkr.
+HK	HK	symbol		bývalá SPZ okresu Hradec Králové		0	zkr.
+HB	HB	symbol		bývalá SPZ okresu Havlíčkův Brod		0	zkr.
+CR	CR	symbol		bývalá SPZ okresu Chrudim		0	zkr.
+JC	JC	symbol		bývalá SPZ okresu Jičín		0	zkr.
+NA	NA	symbol		bývalá SPZ okresu Náchod		0	zkr.
+PU	PU	symbol		bývalá SPZ okresu Pardubice		0	zkr.
+RK	RK	symbol		bývalá SPZ okresu Rychnov nad Kněžnou		0	zkr.
+SE	SE	symbol		bývalá SPZ okresu Semily		0	zkr.
+SY	SY	symbol		bývalá SPZ okresu Svitavy		0	zkr.
+TU	TU	symbol		bývalá SPZ okresu Trutnov		0	zkr.
+UO	UO	symbol		bývalá SPZ okresu Ústí nad Orlicí		0	zkr.
+BI	BI	symbol		bývalá SPZ okresu Brno-venkov		0	zkr.
+BM	BM	symbol		bývalá SPZ okresu Brno-město		0	zkr.
+BV	BV	symbol		bývalá SPZ okresu Břeclav		0	zkr.
+ZL	ZL	symbol		bývalá SPZ okresu Zlín		0	zkr.
+HO	HO	symbol		bývalá SPZ okresu Hodonín		0	zkr.
+JI	JI	symbol		bývalá SPZ okresu Jihlava		0	zkr.
+KM	KM	symbol		bývalá SPZ okresu Kroměříž		0	zkr.
+PV	PV	symbol		bývalá SPZ okresu Prostějov		0	zkr.
+TR	TR	symbol		bývalá SPZ okresu Třebíč		0	zkr.
+UH	UH	symbol		bývalá SPZ okresu Uherské Hradiště		0	zkr.
+VY	VY	symbol		bývalá SPZ okresu Vyškov		0	zkr.
+ZN	ZN	symbol		bývalá SPZ okresu Znojmo		0	zkr.
+FM	FM	symbol		bývalá SPZ okresu Frýdek-Místek		0	zkr.
+KI	KI	symbol		bývalá SPZ okresu Karviná		0	zkr.
+NJ	NJ	symbol		bývalá SPZ okresu Nový Jičín		0	zkr.
+OC	OC	symbol		bývalá SPZ okresu Olomouc		0	zkr.
+OP	OP	symbol		bývalá SPZ okresu Opava		0	zkr.
+OV	OV	symbol		bývalá SPZ okresu Ostrava		0	zkr.
+PR	PR	symbol		bývalá SPZ okresu Přerov		0	zkr.
+SU	SU	symbol		bývalá SPZ okresu Šumperk		0	zkr.
+VS	VS	symbol		bývalá SPZ okresu Vsetín		0	zkr.
+JE	JE	symbol		bývalá SPZ okresu Jeseník		0	zkr.
+He	He	symbol		chem. zn. helia		0	zkr.
+Li	Li	symbol		chem. zn. lithia		0	zkr.
+Be	Be	symbol		chem. zn. berylia		0	zkr.
+Ne	Ne	symbol		chem. zn. neonu		0	zkr.
+Na	Na	symbol		chem. zn. sodíku		0	zkr.
+Mg	Mg	symbol		chem. zn. hořčíku		0	zkr.
+Al	Al	symbol		chem. zn. hliníku		0	zkr.
+Si	Si	symbol		chem. zn. křemíku		0	zkr.
+Cl	Cl	symbol		chem. zn. chloru		0	zkr.
+Ar	Ar	symbol		chem. zn. argonu		0	zkr.
+Ca	Ca	symbol		chem. zn. vápníku		0	zkr.
+Sc	Sc	symbol		chem. zn. skandia		0	zkr.
+Ti	Ti	symbol		chem. zn. titanu		0	zkr.
+Cr	Cr	symbol		chem. zn. chromu		0	zkr.
+Mn	Mn	symbol		chem. zn. manganu		0	zkr.
+Fe	Fe	symbol		chem. zn. železa		0	zkr.
+Co	Co	symbol		chem. zn. kobaltu		0	zkr.
+Ni	Ni	symbol		chem. zn. niklu		0	zkr.
+Cu	Cu	symbol		chem. zn. mědi		0	zkr.
+Zn	Zn	symbol		chem. zn. zinku		0	zkr.
+Ga	Ga	symbol		chem. zn. gallia		0	zkr.
+Ge	Ge	symbol		chem. zn. germania		0	zkr.
+As	As	symbol		chem. zn. arsenu		0	zkr.
+Se	Se	symbol		chem. zn. selenu		0	zkr.
+Br	Br	symbol		chem. zn. bromu		0	zkr.
+Kr	Kr	symbol		chem. zn. kryptonu		0	zkr.
+Rb	Rb	symbol		chem. zn. rubidia		0	zkr.
+Sr	Sr	symbol		chem. zn. stroncia		0	zkr.
+Zr	Zr	symbol		chem. zn. zirkonia		0	zkr.
+Nb	Nb	symbol		chem. zn. niobu		0	zkr.
+Mo	Mo	symbol		chem. zn. molybdenu		0	zkr.
+Tc	Tc	symbol		chem. zn. technecia		0	zkr.
+Ru	Ru	symbol		chem. zn. ruthenia		0	zkr.
+Rh	Rh	symbol		chem. zn. rhodia		0	zkr.
+Pd	Pd	symbol		chem. zn. palladia		0	zkr.
+Ag	Ag	symbol		chem. zn. stříbra		0	zkr.
+Cd	Cd	symbol		chem. zn. kadmia		0	zkr.
+In	In	symbol		chem. zn. india		0	zkr.
+Sn	Sn	symbol		chem. zn. cínu		0	zkr.
+Sb	Sb	symbol		chem. zn. antimonu		0	zkr.
+Te	Te	symbol		chem. zn. teluru		0	zkr.
+Xe	Xe	symbol		chem. zn. xenonu		0	zkr.
+Cs	Cs	symbol		chem. zn. cesia		0	zkr.
+Ba	Ba	symbol		chem. zn. barya		0	zkr.
+La	La	symbol		chem. zn. lanthanu		0	zkr.
+Ce	Ce	symbol		chem. zn. ceru		0	zkr.
+Pr	Pr	symbol		chem. zn. praseodymu		0	zkr.
+Nd	Nd	symbol		chem. zn. neodymu		0	zkr.
+Pm	Pm	symbol		chem. zn. promethia		0	zkr.
+Sm	Sm	symbol		chem. zn. samaria		0	zkr.
+Eu	Eu	symbol		chem. zn. europia		0	zkr.
+Gd	Gd	symbol		chem. zn. gadolinia		0	zkr.
+Tb	Tb	symbol		chem. zn. terbia		0	zkr.
+Dy	Dy	symbol		chem. zn. dysprosia		0	zkr.
+Ho	Ho	symbol		chem. zn. holmia		0	zkr.
+Er	Er	symbol		chem. zn. erbia		0	zkr.
+Tm	Tm	symbol		chem. zn. thulia		0	zkr.
+Yb	Yb	symbol		chem. zn. ytterbia		0	zkr.
+Lu	Lu	symbol		chem. zn. lutecia		0	zkr.
+Hf	Hf	symbol		chem. zn. hafnia		0	zkr.
+Ta	Ta	symbol		chem. zn. tantalu		0	zkr.
+Re	Re	symbol		chem. zn. rhenia		0	zkr.
+Os	Os	symbol		chem. zn. osmia		0	zkr.
+Ir	Ir	symbol		chem. zn. iridia		0	zkr.
+Pt	Pt	symbol		chem. zn. platiny		0	zkr.
+Au	Au	symbol		chem. zn. zlata		0	zkr.
+Hg	Hg	symbol		chem. zn. rtuti		0	zkr.
+Tl	Tl	symbol		chem. zn. thallia		0	zkr.
+Pb	Pb	symbol		chem. zn. olova		0	zkr.
+Bi	Bi	symbol		chem. zn. bismutu		0	zkr.
+Po	Po	symbol		chem. zn. polonia		0	zkr.
+At	At	symbol		chem. zn. astatu		0	zkr.
+Rn	Rn	symbol		chem. zn. radonu		0	zkr.
+Fr	Fr	symbol		chem. zn. francia		0	zkr.
+Ra	Ra	symbol		chem. zn. radia		0	zkr.
+Ac	Ac	symbol		chem. zn. aktinia		0	zkr.
+Th	Th	symbol		chem. zn. thoria		0	zkr.
+Pa	Pa	symbol		chem. zn. protaktinia		0	zkr.
+Np	Np	symbol		chem. zn. neptunia		0	zkr.
+Pu	Pu	symbol		chem. zn. plutonia		0	zkr.
+Am	Am	symbol		chem. zn. americia		0	zkr.
+Cm	Cm	symbol		chem. zn. curia		0	zkr.
+Bk	Bk	symbol		chem. zn. berkelia		0	zkr.
+Cf	Cf	symbol		chem. zn. kalifornia		0	zkr.
+Es	Es	symbol		chem. zn. einsteinia		0	zkr.
+Fm	Fm	symbol		chem. zn. fermia		0	zkr.
+Md	Md	symbol		chem. zn. mendelevia		0	zkr.
+No	No	symbol		chem. zn. nobelia		0	zkr.
+Lr	Lr	symbol		chem. zn. lawrencia		0	zkr.
+II	II	num		římsky 2		0	
+III	III	num		římsky 3		0	
+IV	IV	num		římsky 4		0	
+VI	VI	num		římsky 6		0	
+VII	VII	num		římsky 7		0	
+VIII	VIII	num		římsky 8		0	
+IX	IX	num		římsky 9		0	
+XI	XI	num		římsky 11		0	
+XII	XII	num		římsky 12		0	
+XIII	XIII	num		římsky 13		0	
+XIV	XIV	num		římsky 14		0	
+XV	XV	num		římsky 15		0	
+XVI	XVI	num		římsky 16		0	
+XVII	XVII	num		římsky 17		0	
+XIX	XIX	num		římsky 19		0	
+XX	XX	num		římsky 20		0	
+XXI	XXI	num		římsky 21		0	
+XXV	XXV	num		římsky 25		0	
+XXX	XXX	num		římsky 30		0	
+XL	XL	num		římsky 40		0	
+LI	LI	num		římsky 51		0	
+LV	LV	num		římsky 55		0	
+LX	LX	num		římsky 60		0	
+LXX	LXX	num		římsky 70		0	
+XC	XC	num		římsky 90		0	
+CI	CI	num		římsky 101		0	
+CV	CV	num		římsky 105		0	
+CX	CX	num		římsky 110		0	
+CL	CL	num		římsky 150		0	
+CC	CC	num		římsky 200		0	
+CCC	CCC	num		římsky 300		0	
+CD	CD	num		římsky 400		0	
+DI	DI	num		římsky 501		0	
+DC	DC	num		římsky 600		0	
+DCC	DCC	num		římsky 700		0	
+CM	CM	num		římsky 900		0	
+MC	MC	num		římsky 1100		0	
+MD	MD	num		římsky 1500		0	
+MM	MM	num		římsky 2000		0	
+MMM	MMM	num		římsky 3000		0	
+re	re	noun		solmizační slabika		0	
+si	si	noun		solmizační slabika		0	
+béta	béta	noun		řecké písmeno		0	
+epsilon	epsilon	noun		řecké písmeno		0	
+dzéta	dzéta	noun		řecké písmeno		0	
+éta	éta	noun		řecké písmeno		0	
+théta	théta	noun		řecké písmeno		0	
+jóta	jóta	noun		řecké písmeno		0	
+kapa	kapa	noun		řecké písmeno		0	
+lambda	lambda	noun		řecké písmeno		0	
+mí	mí	noun		řecké písmeno		0	
+ný	ný	noun		řecké písmeno		0	
+ró	ró	noun		řecké písmeno		0	
+sigma	sigma	noun		řecké písmeno		0	
+tau	tau	noun		řecké písmeno		0	
+fí	fí	noun		řecké písmeno		0	
+chí	chí	noun		řecké písmeno		0	
+ómega	ómega	noun		řecké písmeno		0	
+yes	yes	cizí		anglicky ano		0	
+no	no	cizí		anglicky ne		0	
+ja	ja	cizí		německy ano		0	
+nein	nein	cizí		německy ne		0	
+áno	áno	cizí		slovensky ano		0	
+oui	oui	cizí		francouzsky ano		0	
+non	non	cizí		francouzsky ne		0	
+si	si	cizí		italsky ano		0	
+da	da	cizí		rusky ano		0	
+net	net	cizí		rusky ne		0	
+tak	tak	cizí		polsky ano		0	
+et	et	cizí		latinsky a		0	
+und	und	cizí		německy a		0	
+and	and	cizí		anglicky a		0	
+end	end	cizí		anglicky konec		0	
+one	one	cizí		anglicky jeden		0	
+two	two	cizí		anglicky dva		0	
+ten	ten	cizí		anglicky deset		0	
+eins	eins	cizí		německy jeden		0	
+zwei	zwei	cizí		německy dva		0	
+drei	drei	cizí		německy tři		0	
+un	un	cizí		francouzsky jeden		0	
+deux	deux	cizí		francouzsky dva		0	
+uno	uno	cizí		italsky jeden		0	
+due	due	cizí		italsky dva		0	
+tre	tre	cizí		italsky tři		0	
+dos	dos	cizí		španělsky dva		0	
+tres	tres	cizí		španělsky tři		0	
+sí	sí	cizí		španělsky ano		0	
+le	le	cizí		francouzský člen		0	
+la	la	cizí		francouzský člen ženský		0	
+der	der	cizí		německý člen		0	
+die	die	cizí		německý člen ženský		0	
+das	das	cizí		německý člen střední		0	
+the	the	cizí		anglický člen		0	
+ich	ich	cizí		německy já		0	
+moi	moi	cizí		francouzsky já		0	
+io	io	cizí		italsky já		0	
+ego	ego	cizí		latinsky já		0	
+sum	sum	cizí		latinsky jsem		0	
+rex	rex	cizí		latinsky král		0	
+lux	lux	cizí		latinsky světlo		0	
+pax	pax	cizí		latinsky mír		0	
+ars	ars	cizí		latinsky umění		0	
+lex	lex	cizí		latinsky zákon		0	
+mare	mare	cizí		latinsky moře		0	
+aqua	aqua	cizí		latinsky voda		0	
+vita	vita	cizí		latinsky život		0	
+tu	tu	cizí		francouzsky ty		0	
+dom	dom	cizí		rusky dům		0	
+crr	crr	intj		zvuk zvonku		0	
+ťuk	ťuk	intj		zvuk klepnutí		0	
+uf	uf	intj		citoslovce úlevy		0	
+hola	hola	intj		zvolání, pobídka		0	
+kvak	kvak	intj		hlas žáby		0	
+mé	mé	intj		hlas kozy		0	
+prásk	prásk	intj		zvuk rány		0	
+cvak	cvak	intj		zvuk spouště, zámku		0	
+Máňa	Máňa	name		domácky Marie		0	vl.
+Jenda	Jenda	name		domácky Jan		0	vl.
+Míša	Míša	name		domácky Michal		0	vl.
+Áňa	Áňa	name		domácky Anna		0	vl.
+Káťa	Káťa	name		domácky Kateřina		0	vl.
+Vašek	Vašek	name		domácky Václav		0	vl.
+Olda	Olda	name		domácky Oldřich		0	vl.
+Ali	Ali	name		mužské jméno		0	vl.
+Ilja	Ilja	name		mužské jméno		0	vl.
+Úpa	Úpa	noun		řeka v Krkonoších		0	vl.
+Blanice	Blanice	noun		řeka v jižních Čechách		0	vl.
+Polná	Polná	noun		město na Vysočině		0	vl.
+Ralsko	Ralsko	noun		hora u Mimoně		0	vl.
+Lysá	Lysá	noun		Lysá hora v Beskydech		0	vl.
+Tišnov	Tišnov	noun		město u Brna		0	vl.
+Foglar	Foglar	name		Jaroslav Foglar, autor Rychlých šípů		0	vl.
+Wichterle	Wichterle	name		Otto Wichterle, vynálezce měkkých čoček		0	vl.
+Biden	Biden	name		Joe Biden, americký prezident		0	vl.
+Carter	Carter	name		Jimmy Carter, americký prezident		0	vl.
+Reagan	Reagan	name		Ronald Reagan, americký prezident		0	vl.
+Macron	Macron	name		Emmanuel Macron, francouzský prezident		0	vl.
+Zelenskyj	Zelenskyj	name		Volodymyr Zelenskyj, ukrajinský prezident		0	vl.
+Mugabe	Mugabe	name		Robert Mugabe, zimbabwský prezident		0	vl.
+Nehrú	Nehrú	name		Džaváharlál Nehrú, indický premiér		0	vl.
+Tolstoj	Tolstoj	name		Lev Nikolajevič Tolstoj, ruský spisovatel		0	vl.
+Gogol	Gogol	name		Nikolaj Vasiljevič Gogol, ruský spisovatel		0	vl.
+Dumas	Dumas	name		Alexandre Dumas, autor Tří mušketýrů		0	vl.
+Coelho	Coelho	name		Paulo Coelho, autor Alchymisty		0	vl.
+Goya	Goya	name		Francisco Goya, španělský malíř		0	vl.
+Gaudí	Gaudí	name		Antoni Gaudí, architekt v Barceloně		0	vl.
+Miró	Miró	name		Joan Miró, katalánský malíř		0	vl.
+Durych	Durych	name		Jaroslav Durych, český spisovatel		0	vl.
+Nedbal	Nedbal	name		Oskar Nedbal, český skladatel		0	vl.
+Hilský	Hilský	name		Martin Hilský, překladatel Shakespeara		0	vl.
+Sís	Sís	name		Petr Sís, český ilustrátor		0	vl.
+Hlinomaz	Hlinomaz	name		Josef Hlinomaz, český herec		0	vl.
+Euler	Euler	name		Leonhard Euler, švýcarský matematik		0	vl.
+Heyrovský	Heyrovský	name		Jaroslav Heyrovský, objevitel polarografie		0	vl.
+Gabčík	Gabčík	name		Jozef Gabčík, parašutista z operace Anthropoid		0	vl.
+Opálka	Opálka	name		Adolf Opálka, parašutista z operace Out Distance		0	vl.
+Kolben	Kolben	name		Emil Kolben, zakladatel strojírny ČKD		0	vl.
+Jakeš	Jakeš	name		Miloš Jakeš, generální tajemník KSČ		0	vl.
+Prymula	Prymula	name		Roman Prymula, český epidemiolog		0	vl.
+Vystrčil	Vystrčil	name		Miloš Vystrčil, předseda Senátu		0	vl.
+Satoranský	Satoranský	name		Tomáš Satoranský, český basketbalista		0	vl.

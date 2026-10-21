@@ -1,0 +1,25 @@
+# Svoboda — one word per line, optional TAB + clue. Lines starting with # are ignored.
+demokracie	vláda lidu, zvolená občany
+volby	hlasování o tom, kdo nás bude zastupovat
+listopad	měsíc, ve kterém začala sametová revoluce
+revoluce	rychlá a hluboká změna celého režimu
+ústava	základní zákon státu
+právo	soubor závazných zákonných norem
+nezávislost	stav, kdy stát rozhoduje sám o sobě
+občan	člen státu s právy a povinnostmi
+parlament	zákonodárný sbor poslanců
+disident	odpůrce režimu, který veřejně kritizuje
+cenzura	zakazování nepohodlných textů
+hranice	čára mezi dvěma státy
+odboj	ozbrojený nebo tajný vzdor proti okupantům
+charta	listina lidských práv a zásad
+odvaha	schopnost jednat navzdory strachu
+projev	veřejná řeč nebo vyjádření názoru
+tisk	noviny a časopisy
+vlajka	látka se státními barvami na žerdi
+hymna	slavnostní píseň státu
+protest	hlasité vyjádření nesouhlasu, demonstrace
+bojkot	odmítnutí účasti nebo nákupu na znamení nesouhlasu
+obrana	ochrana před útokem
+boj	zápas, střet
+stávka	společné přerušení práce na znamení nesouhlasu

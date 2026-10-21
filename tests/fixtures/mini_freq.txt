@@ -1,0 +1,16 @@
+být 100000
+pes 90000
+chata 80000
+růže 70000
+růží 60000
+praha 50000
+zelená 40000
+
+píti 30000
+ruža 20000
+pecka 10000
+pták 9000
+mrdat 8000
+kokot 7000
+sračka 6000
+kafe 5000

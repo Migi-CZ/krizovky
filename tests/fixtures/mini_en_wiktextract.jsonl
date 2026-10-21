@@ -1,0 +1,10 @@
+{"word": "kocour", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["tomcat"], "tags": ["animate", "masculine"]}], "synonyms": [{"word": "macek"}], "forms": [{"form": "kočka", "tags": ["feminine"]}, {"form": "animate", "source": "declension", "tags": ["table-tags"]}, {"form": "cs-ndecl", "source": "declension", "tags": ["inflection-template"]}, {"form": "kocour", "tags": ["nominative", "singular"], "source": "declension"}, {"form": "kocouři", "tags": ["nominative", "plural"], "source": "declension"}, {"form": "kocoura", "tags": ["genitive", "singular"], "source": "declension"}, {"form": "kocouře", "tags": ["vocative", "singular"], "source": "declension"}]}
+{"word": "kocoura", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["genitive singular of kocour"], "tags": ["form-of", "genitive", "singular"], "form_of": [{"word": "kocour"}]}]}
+{"word": "pes", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["dog"], "tags": ["animate", "masculine"]}], "forms": [{"form": "psi", "tags": ["nominative", "plural"], "source": "declension"}, {"form": "psové", "tags": ["nominative", "plural"], "source": "declension"}, {"form": "psa", "tags": ["genitive", "singular"], "source": "declension"}]}
+{"word": "Praha", "lang_code": "cs", "pos": "name", "senses": [{"glosses": ["Prague"]}]}
+{"word": "blbeček", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["little idiot"], "tags": ["offensive"]}]}
+{"word": "kafe", "lang_code": "cs", "pos": "noun", "senses": [{"glosses": ["coffee"], "tags": ["colloquial", "neuter"]}]}
+{"word": "Ostrava", "lang_code": "cs", "pos": "name", "senses": [{"glosses": ["Ostrava (a city)"]}]}
+{"word": "tuze", "lang_code": "cs", "pos": "adv", "senses": [{"glosses": ["very"], "tags": ["dated"]}]}
+{"word": "dog", "lang_code": "en", "pos": "noun", "senses": [{"glosses": ["a domesticated canine"]}]}
+{"word": "mrdat", "lang_code": "cs", "pos": "verb", "senses": [{"glosses": ["to fuck"], "tags": ["vulgar"]}, {"glosses": ["to move about quickly"], "tags": []}]}
